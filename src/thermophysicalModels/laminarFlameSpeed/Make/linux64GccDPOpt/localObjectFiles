@@ -1,0 +1,6 @@
+LOCAL_OBJECTS = \
+laminarFlameSpeed.o\
+newLaminarFlameSpeed.o\
+constant.o\
+Gulders.o\
+GuldersEGR.o

@@ -1,0 +1,23 @@
+LOCAL_OBJECTS = \
+vanDriestDelta.o\
+LESModel.o\
+GenEddyVisc.o\
+GenSGSStress.o\
+laminar.o\
+SpalartAllmaras.o\
+SpalartAllmarasDDES.o\
+SpalartAllmarasIDDES.o\
+IDDESDelta.o\
+oneEqEddy.o\
+dynOneEqEddy.o\
+locDynOneEqEddy.o\
+Smagorinsky.o\
+dynSmagorinsky.o\
+LRRDiffStress.o\
+DeardorffDiffStress.o\
+spectEddyVisc.o\
+scaleSimilarity.o\
+mixedSmagorinsky.o\
+dynMixedSmagorinsky.o\
+kOmegaSSTSAS.o\
+nuSgsWallFunctionFvPatchScalarField.o

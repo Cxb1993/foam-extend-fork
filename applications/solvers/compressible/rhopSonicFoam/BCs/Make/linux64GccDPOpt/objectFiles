@@ -1,0 +1,7 @@
+OBJECTS = \
+$(OBJECTS_DIR)/fixedRhoFvPatchScalarField.o\
+$(OBJECTS_DIR)/gradientRhoFvPatchScalarField.o\
+$(OBJECTS_DIR)/fixedRhoEFvPatchScalarField.o\
+$(OBJECTS_DIR)/mixedRhoEFvPatchScalarField.o\
+$(OBJECTS_DIR)/fixedRhoUFvPatchVectorField.o\
+$(OBJECTS_DIR)/inviscidWallPFvPatchScalarField.o

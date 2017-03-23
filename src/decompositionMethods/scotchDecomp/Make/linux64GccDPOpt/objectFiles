@@ -1,0 +1,3 @@
+OBJECTS = \
+$(OBJECTS_DIR)/scotchDecomp.o\
+$(OBJECTS_DIR)/engineScotchDecomp.o

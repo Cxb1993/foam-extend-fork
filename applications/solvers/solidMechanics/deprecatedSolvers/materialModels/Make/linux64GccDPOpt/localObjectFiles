@@ -1,0 +1,26 @@
+LOCAL_OBJECTS = \
+rheologyModel.o\
+rheologyLaw.o\
+newRheologyLaw.o\
+linearElastic.o\
+multiMaterial.o\
+MaxwellViscoelastic.o\
+BurgersViscoelastic.o\
+KelvinSLSViscoelastic.o\
+MaxwellSLSViscoelastic.o\
+MaxwellElasticViscoelastic.o\
+PronyViscoelastic.o\
+thermalModel.o\
+thermalLaw.o\
+newThermalLaw.o\
+constantThermal.o\
+multiMaterialThermal.o\
+cohesiveLaw.o\
+DugdaleCohesiveLaw.o\
+linearCohesiveLaw.o\
+tractionDisplacementFvPatchVectorField.o\
+tractionDisplacementThermoFvPatchVectorField.o\
+nusseltFvPatchScalarField.o\
+newDirectionMixedFvPatchFields.o\
+cohesiveLawFvPatchVectorField.o\
+cohesiveZoneFvPatchVectorField.o

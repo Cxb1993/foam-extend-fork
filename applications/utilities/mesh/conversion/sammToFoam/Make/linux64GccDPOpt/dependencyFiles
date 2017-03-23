@@ -1,0 +1,16 @@
+DEPENDENCIES = \
+sammMesh.dep\
+fillSammCellShapeTable.dep\
+fillSammAddressingTable.dep\
+readPoints.dep\
+readCells.dep\
+readBoundary.dep\
+fixCollapsedEdges.dep\
+readCouples.dep\
+calcPointCells.dep\
+createPolyCells.dep\
+createBoundaryFaces.dep\
+createPolyBoundary.dep\
+purgeCellShapes.dep\
+writeMesh.dep\
+sammToFoam.dep

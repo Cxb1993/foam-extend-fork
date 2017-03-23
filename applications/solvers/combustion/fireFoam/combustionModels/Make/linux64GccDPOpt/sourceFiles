@@ -1,0 +1,5 @@
+SOURCE = \
+combustionModel/combustionModel.C\
+combustionModel/newCombustionModel.C\
+infinitelyFastChemistry/infinitelyFastChemistry.C\
+noCombustion/noCombustion.C

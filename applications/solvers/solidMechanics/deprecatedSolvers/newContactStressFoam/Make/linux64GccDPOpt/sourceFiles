@@ -1,0 +1,4 @@
+SOURCE = \
+contactProblem.C\
+contactPatchPair.C\
+newContactStressFoam.C

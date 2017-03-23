@@ -1,0 +1,5 @@
+DEPENDENCIES = \
+multiphaseMixture/phase/phase.dep\
+multiphaseMixture/alphaContactAngle/alphaContactAngleFvPatchScalarField.dep\
+multiphaseMixture/multiphaseMixture.dep\
+multiphaseInterFoam.dep

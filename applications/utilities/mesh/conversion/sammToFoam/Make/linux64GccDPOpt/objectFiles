@@ -1,0 +1,16 @@
+OBJECTS = \
+$(OBJECTS_DIR)/sammMesh.o\
+$(OBJECTS_DIR)/fillSammCellShapeTable.o\
+$(OBJECTS_DIR)/fillSammAddressingTable.o\
+$(OBJECTS_DIR)/readPoints.o\
+$(OBJECTS_DIR)/readCells.o\
+$(OBJECTS_DIR)/readBoundary.o\
+$(OBJECTS_DIR)/fixCollapsedEdges.o\
+$(OBJECTS_DIR)/readCouples.o\
+$(OBJECTS_DIR)/calcPointCells.o\
+$(OBJECTS_DIR)/createPolyCells.o\
+$(OBJECTS_DIR)/createBoundaryFaces.o\
+$(OBJECTS_DIR)/createPolyBoundary.o\
+$(OBJECTS_DIR)/purgeCellShapes.o\
+$(OBJECTS_DIR)/writeMesh.o\
+$(OBJECTS_DIR)/sammToFoam.o

@@ -1,0 +1,3 @@
+include solidParticle.dep
+include solidParticleIO.dep
+include solidParticleCloud.dep

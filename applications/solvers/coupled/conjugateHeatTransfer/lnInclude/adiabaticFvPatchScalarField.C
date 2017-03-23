@@ -1,0 +1,1 @@
+../fvPatchFields/adiabatic/adiabaticFvPatchScalarField.C

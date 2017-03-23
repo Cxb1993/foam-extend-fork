@@ -1,0 +1,15 @@
+include sammMesh.dep
+include fillSammCellShapeTable.dep
+include fillSammAddressingTable.dep
+include readPoints.dep
+include readCells.dep
+include readBoundary.dep
+include fixCollapsedEdges.dep
+include readCouples.dep
+include calcPointCells.dep
+include createPolyCells.dep
+include createBoundaryFaces.dep
+include createPolyBoundary.dep
+include purgeCellShapes.dep
+include writeMesh.dep
+include sammToFoam.dep

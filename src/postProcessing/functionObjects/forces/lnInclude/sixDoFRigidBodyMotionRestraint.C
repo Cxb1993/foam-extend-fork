@@ -1,0 +1,1 @@
+../pointPatchFields/derived/sixDoFRigidBodyMotion/sixDoFRigidBodyMotionRestraint/sixDoFRigidBodyMotionRestraint/sixDoFRigidBodyMotionRestraint.C

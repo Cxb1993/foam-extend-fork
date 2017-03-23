@@ -1,0 +1,3 @@
+DEPENDENCIES = \
+tractionDisplacementCorrection/tractionDisplacementCorrectionFvPatchVectorField.dep\
+solidEquilibriumDisplacementFoam.dep

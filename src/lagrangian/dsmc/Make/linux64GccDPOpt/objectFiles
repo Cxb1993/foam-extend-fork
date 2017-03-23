@@ -1,0 +1,7 @@
+OBJECTS = \
+$(OBJECTS_DIR)/dsmcParcel.o\
+$(OBJECTS_DIR)/DsmcBaseCloud.o\
+$(OBJECTS_DIR)/defineDsmcParcel.o\
+$(OBJECTS_DIR)/makeDsmcParcelBinaryCollisionModels.o\
+$(OBJECTS_DIR)/makeDsmcParcelWallInteractionModels.o\
+$(OBJECTS_DIR)/makeDsmcParcelInflowBoundaryModels.o

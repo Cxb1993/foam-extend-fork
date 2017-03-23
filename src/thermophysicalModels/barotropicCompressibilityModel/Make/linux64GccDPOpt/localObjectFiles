@@ -1,0 +1,6 @@
+LOCAL_OBJECTS = \
+barotropicCompressibilityModel.o\
+newBarotropicCompressibilityModel.o\
+linear.o\
+Wallis.o\
+Chung.o

@@ -1,0 +1,2 @@
+curvedEdges = curvedEdges
+EXE = $(FOAM_APPBIN)/blockMesh

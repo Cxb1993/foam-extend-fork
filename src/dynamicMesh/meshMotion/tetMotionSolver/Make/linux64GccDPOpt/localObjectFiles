@@ -1,0 +1,14 @@
+LOCAL_OBJECTS = \
+tetMotionSolver.o\
+laplaceTetMotionSolver.o\
+pseudoSolidTetMotionSolver.o\
+cellQuality.o\
+motionDiff.o\
+uniformDiff.o\
+deformationEnergyDiff.o\
+distortionEnergyDiff.o\
+linearDiff.o\
+quadraticDiff.o\
+exponentialDiff.o\
+patchEnhancedDiff.o\
+fileDiff.o

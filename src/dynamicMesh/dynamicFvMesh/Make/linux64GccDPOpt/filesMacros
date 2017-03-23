@@ -1,0 +1,7 @@
+tetMetrics = dynamicTopoFvMesh/tetMetrics
+lengthScaleEstimator = dynamicTopoFvMesh/lengthScaleEstimator
+eMesh = dynamicTopoFvMesh/eMesh
+ePatches = $(eMesh)/ePatches
+convexSetAlgorithm = dynamicTopoFvMesh/convexSetAlgorithm
+fieldMapping = dynamicTopoFvMesh/fieldMapping
+LIB = $(FOAM_LIBBIN)/libdynamicFvMesh

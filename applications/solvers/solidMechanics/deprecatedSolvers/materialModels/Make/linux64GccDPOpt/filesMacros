@@ -1,0 +1,3 @@
+rheologyLaws         = rheologyModel/rheologyLaws
+thermalLaws          = thermalModel/thermalLaws
+LIB = $(FOAM_LIBBIN)/libmaterialModels

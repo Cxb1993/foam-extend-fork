@@ -1,0 +1,19 @@
+LOCAL_OBJECTS = \
+ensightFile.o\
+ensightGeoFile.o\
+ensightPart.o\
+ensightPartIO.o\
+ensightPartCells.o\
+ensightPartFaces.o\
+ensightParts.o\
+boundaryRegion.o\
+cellTable.o\
+meshReader.o\
+meshReaderAux.o\
+calcPointCells.o\
+createPolyCells.o\
+createPolyBoundary.o\
+STARCDMeshReader.o\
+meshWriter.o\
+STARCDMeshWriter.o\
+polyDualMesh.o

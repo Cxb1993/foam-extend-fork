@@ -1,0 +1,6 @@
+OBJECTS = \
+$(OBJECTS_DIR)/foamToFieldview9.o\
+$(OBJECTS_DIR)/fieldviewTopology.o\
+$(OBJECTS_DIR)/write_binary_uns.o\
+$(OBJECTS_DIR)/calcFaceAddressing.o\
+$(OBJECTS_DIR)/writeFunctions.o

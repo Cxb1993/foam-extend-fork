@@ -1,0 +1,23 @@
+LOCAL_OBJECTS = \
+dimensionedVectorTensorN.o\
+fvPatchVectorNFields.o\
+genericFvPatchVectorNFields.o\
+calculatedFvPatchVectorNFields.o\
+emptyFvPatchVectorNFields.o\
+transformFvPatchVectorNFields.o\
+wedgeFvPatchVectorNFields.o\
+coupledFvPatchVectorNFields.o\
+processorFvPatchVectorNFields.o\
+cyclicFvPatchVectorNFields.o\
+fixedValueFvPatchVectorNFields.o\
+zeroGradientFvPatchVectorNFields.o\
+fixedGradientFvPatchVectorNFields.o\
+fvsPatchVectorNFields.o\
+calculatedFvsPatchVectorNFields.o\
+emptyFvsPatchVectorNFields.o\
+wedgeFvsPatchVectorNFields.o\
+coupledFvsPatchVectorNFields.o\
+processorFvsPatchVectorNFields.o\
+volVectorNFields.o\
+surfaceVectorNFields.o\
+VectorNSurfaceInterpolationSchemes.o

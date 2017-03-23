@@ -1,0 +1,6 @@
+OBJECTS = \
+$(OBJECTS_DIR)/laminarFlameSpeed.o\
+$(OBJECTS_DIR)/newLaminarFlameSpeed.o\
+$(OBJECTS_DIR)/constant.o\
+$(OBJECTS_DIR)/Gulders.o\
+$(OBJECTS_DIR)/GuldersEGR.o

@@ -1,0 +1,15 @@
+$(OBJECTS_DIR)/fv.o: finiteVolume/fv/fv.dep
+finiteVolume/fv/fv.dep: finiteVolume/fv/fv.C
+finiteVolume/fv/fv.dep: finiteVolume/fv/fv.H
+finiteVolume/fv/fv.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/className.H
+finiteVolume/fv/fv.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/word.H
+finiteVolume/fv/fv.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/string.H
+finiteVolume/fv/fv.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/char.H
+finiteVolume/fv/fv.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/Hasher.H
+finiteVolume/fv/fv.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/stringI.H
+finiteVolume/fv/fv.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/wordI.H
+finiteVolume/fv/fv.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/debug.H
+$(OBJECTS_DIR)/fv.o: $(EXE_DEP)
+$(OBJECTS_DIR)/fv.o:
+	@SOURCE_DIR=finiteVolume/fv
+	SOURCE=finiteVolume/fv/fv.C ; $(Ctoo)

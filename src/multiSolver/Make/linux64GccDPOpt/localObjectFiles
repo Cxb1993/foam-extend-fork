@@ -1,0 +1,6 @@
+LOCAL_OBJECTS = \
+dummyControlDict.o\
+multiTime.o\
+multiSolver.o\
+timeCluster.o\
+timeClusterList.o

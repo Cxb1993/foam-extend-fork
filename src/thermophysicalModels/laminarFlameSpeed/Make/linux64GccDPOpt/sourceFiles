@@ -1,0 +1,6 @@
+SOURCE = \
+laminarFlameSpeed/laminarFlameSpeed.C\
+laminarFlameSpeed/newLaminarFlameSpeed.C\
+constant/constant.C\
+Gulders/Gulders.C\
+GuldersEGR/GuldersEGR.C

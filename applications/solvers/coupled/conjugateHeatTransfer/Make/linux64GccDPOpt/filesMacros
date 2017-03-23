@@ -1,0 +1,6 @@
+thermalLaws          = thermalModel/thermalLaws
+thermalGaps          = thermalModel/thermalGaps
+thermalSource          = thermalModel/thermalSource
+BCs          = fvPatchFields
+FOs          = functionObjects
+LIB = $(FOAM_LIBBIN)/libconjugateHeatTransfer

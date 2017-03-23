@@ -1,0 +1,26 @@
+DEPENDENCIES = \
+$(curvedEdges)/curvedEdge.dep\
+$(curvedEdges)/lineEdge.dep\
+$(curvedEdges)/polyLine.dep\
+$(curvedEdges)/polyLineEdge.dep\
+$(curvedEdges)/arcEdge.dep\
+$(curvedEdges)/ellipseEdge.dep\
+$(curvedEdges)/BSpline.dep\
+$(curvedEdges)/lineDivide.dep\
+$(curvedEdges)/CatmullRomSpline.dep\
+$(curvedEdges)/splineEdge.dep\
+blockMesh.dep\
+blockDescriptor.dep\
+setEdge.dep\
+block.dep\
+createTopology.dep\
+checkBlockMesh.dep\
+createBlockOffsets.dep\
+createMergeList.dep\
+createPoints.dep\
+createCells.dep\
+createPatches.dep\
+blockPoints.dep\
+blockCells.dep\
+blockBoundary.dep\
+blockMeshApp.dep

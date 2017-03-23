@@ -1,0 +1,1 @@
+../msqAdditonalSrc/QualityMetric/Shape/AspectRatioGammaQualityMetric.cpp

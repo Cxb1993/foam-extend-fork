@@ -1,0 +1,6 @@
+include parcels/derived/dsmcParcel/dsmcParcel.dep
+include clouds/baseClasses/DsmcBaseCloud/DsmcBaseCloud.dep
+include parcels/derived/dsmcParcel/defineDsmcParcel.dep
+include parcels/derived/dsmcParcel/makeDsmcParcelBinaryCollisionModels.dep
+include parcels/derived/dsmcParcel/makeDsmcParcelWallInteractionModels.dep
+include parcels/derived/dsmcParcel/makeDsmcParcelInflowBoundaryModels.dep

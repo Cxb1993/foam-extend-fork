@@ -1,0 +1,1 @@
+../pointPatchFields/derived/sixDoFRigidBodyMotion/sixDoFRigidBodyMotionConstraint/fixedAxis/fixedAxis.C

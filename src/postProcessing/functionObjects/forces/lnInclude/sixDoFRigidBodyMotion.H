@@ -1,0 +1,1 @@
+../pointPatchFields/derived/sixDoFRigidBodyMotion/sixDoFRigidBodyMotion.H

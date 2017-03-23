@@ -1,0 +1,24 @@
+DEPENDENCIES = \
+XiModels/XiModel/XiModel.dep\
+XiModels/XiModel/newXiModel.dep\
+XiModels/fixed/fixed.dep\
+XiModels/algebraic/algebraic.dep\
+XiModels/transport/transport.dep\
+XiModels/XiEqModels/XiEqModel/XiEqModel.dep\
+XiModels/XiEqModels/XiEqModel/newXiEqModel.dep\
+XiModels/XiEqModels/Gulder/Gulder.dep\
+XiModels/XiEqModels/instabilityXiEq/instabilityXiEq.dep\
+XiModels/XiEqModels/SCOPEBlendXiEq/SCOPEBlendXiEq.dep\
+XiModels/XiEqModels/SCOPEXiEq/SCOPEXiEq.dep\
+XiModels/XiGModels/XiGModel/XiGModel.dep\
+XiModels/XiGModels/XiGModel/newXiGModel.dep\
+XiModels/XiGModels/KTS/KTS.dep\
+XiModels/XiGModels/instabilityG/instabilityG.dep\
+PDRModels/turbulence/PDRkEpsilon/PDRkEpsilon.dep\
+PDRModels/dragModels/PDRDragModel/PDRDragModel.dep\
+PDRModels/dragModels/PDRDragModel/newPDRDragModel.dep\
+PDRModels/dragModels/basic/basic.dep\
+PDRModels/XiEqModels/basicXiSubXiEq/basicXiSubXiEq.dep\
+PDRModels/XiGModels/basicXiSubG/basicXiSubG.dep\
+laminarFlameSpeed/SCOPE/SCOPELaminarFlameSpeed.dep\
+PDRFoam.dep

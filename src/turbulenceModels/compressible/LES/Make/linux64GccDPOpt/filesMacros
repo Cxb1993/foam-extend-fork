@@ -1,0 +1,4 @@
+wallFunctions=derivedFvPatchFields/wallFunctions
+muSgsWallFunctions=$(wallFunctions)/muSgsWallFunctions
+alphaSgsWallFunctions=$(wallFunctions)/alphaSgsWallFunctions
+LIB = $(FOAM_LIBBIN)/libcompressibleLESModels

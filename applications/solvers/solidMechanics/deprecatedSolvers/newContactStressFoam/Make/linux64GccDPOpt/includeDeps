@@ -1,0 +1,3 @@
+include contactProblem.dep
+include contactPatchPair.dep
+include newContactStressFoam.dep

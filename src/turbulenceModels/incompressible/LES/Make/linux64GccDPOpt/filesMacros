@@ -1,0 +1,3 @@
+wallFunctions=derivedFvPatchFields/wallFunctions
+nuSgsWallFunctions=$(wallFunctions)/nuSgsWallFunctions
+LIB = $(FOAM_LIBBIN)/libincompressibleLESModels

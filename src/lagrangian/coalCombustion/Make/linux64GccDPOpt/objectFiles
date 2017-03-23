@@ -1,0 +1,3 @@
+OBJECTS = \
+$(OBJECTS_DIR)/defineCoalParcel.o\
+$(OBJECTS_DIR)/makeCoalParcelSubmodels.o

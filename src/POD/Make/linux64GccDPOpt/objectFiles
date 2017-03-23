@@ -1,0 +1,5 @@
+OBJECTS = \
+$(OBJECTS_DIR)/PODEigenBase.o\
+$(OBJECTS_DIR)/scalarPODOrthoNormalBase.o\
+$(OBJECTS_DIR)/PODODE.o\
+$(OBJECTS_DIR)/scalarTransportPOD.o

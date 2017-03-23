@@ -1,0 +1,3 @@
+include collapseBase.dep
+include collapseEdge.dep
+include surfaceClean.dep

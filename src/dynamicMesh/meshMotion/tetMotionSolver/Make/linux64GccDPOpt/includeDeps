@@ -1,0 +1,13 @@
+include tetMotionSolver/tetMotionSolver.dep
+include tetMotionSolver/laplace/laplaceTetMotionSolver.dep
+include tetMotionSolver/pseudoSolid/pseudoSolidTetMotionSolver.dep
+include cellQuality/cellQuality.dep
+include motionDiffs/motionDiff/motionDiff.dep
+include motionDiffs/uniform/uniformDiff.dep
+include motionDiffs/deformationEnergy/deformationEnergyDiff.dep
+include motionDiffs/distortionEnergy/distortionEnergyDiff.dep
+include motionDiffs/linear/linearDiff.dep
+include motionDiffs/quadratic/quadraticDiff.dep
+include motionDiffs/exponential/exponentialDiff.dep
+include motionDiffs/patchEnhanced/patchEnhancedDiff.dep
+include motionDiffs/file/fileDiff.dep

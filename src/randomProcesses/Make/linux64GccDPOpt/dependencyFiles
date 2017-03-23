@@ -1,0 +1,9 @@
+DEPENDENCIES = \
+$(Kmesh)/Kmesh.dep\
+$(fft)/fft.dep\
+$(fft)/fftRenumber.dep\
+$(fft)/calcEk.dep\
+$(fft)/kShellIntegration.dep\
+$(UOprocess)/UOprocess.dep\
+$(turbulence)/turbGen.dep\
+$(noise)/noiseFFT.dep

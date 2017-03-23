@@ -1,0 +1,3 @@
+OBJECTS = \
+$(OBJECTS_DIR)/MGridGenGAMGAgglomeration.o\
+$(OBJECTS_DIR)/MGridGenGAMGAgglomerate.o

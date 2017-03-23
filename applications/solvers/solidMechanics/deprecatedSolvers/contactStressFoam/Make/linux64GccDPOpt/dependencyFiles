@@ -1,0 +1,5 @@
+DEPENDENCIES = \
+contactPatchPair.dep\
+contactPatchPairUpdateContact.dep\
+contactPatchPairSlavePressure.dep\
+contactStressFoam.dep

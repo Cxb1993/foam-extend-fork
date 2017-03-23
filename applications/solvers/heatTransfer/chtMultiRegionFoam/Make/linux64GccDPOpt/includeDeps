@@ -1,0 +1,6 @@
+include regionProperties/regionProperties.dep
+include derivedFvPatchFields/solidWallHeatFluxTemperature/solidWallHeatFluxTemperatureFvPatchScalarField.dep
+include derivedFvPatchFields/solidWallMixedTemperatureCoupled/solidWallMixedTemperatureCoupledFvPatchScalarField.dep
+include fluid/compressibleCourantNo.dep
+include solid/solidRegionDiffNo.dep
+include chtMultiRegionFoam.dep

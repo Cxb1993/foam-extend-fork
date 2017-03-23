@@ -1,0 +1,26 @@
+$(OBJECTS_DIR)/electrostaticPotential.o: electrostaticPotential/electrostaticPotential.dep
+electrostaticPotential/electrostaticPotential.dep: electrostaticPotential/electrostaticPotential.C
+electrostaticPotential/electrostaticPotential.dep: electrostaticPotential/electrostaticPotential.H
+electrostaticPotential/electrostaticPotential.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/scalar.H
+electrostaticPotential/electrostaticPotential.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/floatScalar.H
+electrostaticPotential/electrostaticPotential.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/doubleFloat.H
+electrostaticPotential/electrostaticPotential.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/label.H
+electrostaticPotential/electrostaticPotential.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/int.H
+electrostaticPotential/electrostaticPotential.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/word.H
+electrostaticPotential/electrostaticPotential.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/string.H
+electrostaticPotential/electrostaticPotential.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/char.H
+electrostaticPotential/electrostaticPotential.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/Hasher.H
+electrostaticPotential/electrostaticPotential.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/stringI.H
+electrostaticPotential/electrostaticPotential.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/wordI.H
+electrostaticPotential/electrostaticPotential.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/long.H
+electrostaticPotential/electrostaticPotential.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/longLong.H
+electrostaticPotential/electrostaticPotential.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/pTraits.H
+electrostaticPotential/electrostaticPotential.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/direction.H
+electrostaticPotential/electrostaticPotential.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/products.H
+electrostaticPotential/electrostaticPotential.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/Scalar.H
+electrostaticPotential/electrostaticPotential.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/doubleScalar.H
+electrostaticPotential/electrostaticPotential.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/mathematicalConstants.H
+$(OBJECTS_DIR)/electrostaticPotential.o: $(EXE_DEP)
+$(OBJECTS_DIR)/electrostaticPotential.o:
+	@SOURCE_DIR=electrostaticPotential
+	SOURCE=electrostaticPotential/electrostaticPotential.C ; $(Ctoo)

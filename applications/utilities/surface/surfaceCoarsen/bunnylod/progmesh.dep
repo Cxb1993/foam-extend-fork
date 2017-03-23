@@ -1,0 +1,9 @@
+$(OBJECTS_DIR)/progmesh.o: bunnylod/progmesh.dep
+bunnylod/progmesh.dep: bunnylod/progmesh.C
+bunnylod/progmesh.dep: bunnylod/vector.h
+bunnylod/progmesh.dep: bunnylod/list.h
+bunnylod/progmesh.dep: bunnylod/progmesh.h
+$(OBJECTS_DIR)/progmesh.o: $(EXE_DEP)
+$(OBJECTS_DIR)/progmesh.o:
+	@SOURCE_DIR=bunnylod
+	SOURCE=bunnylod/progmesh.C ; $(Ctoo)

@@ -1,0 +1,6 @@
+LOCAL_OBJECTS = \
+itoa.o\
+ensightMesh.o\
+ensightParticlePositions.o\
+foamToEnsight.o\
+ensightWriteBinary.o

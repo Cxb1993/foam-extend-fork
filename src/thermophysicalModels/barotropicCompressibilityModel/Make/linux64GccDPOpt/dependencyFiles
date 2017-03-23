@@ -1,0 +1,6 @@
+DEPENDENCIES = \
+barotropicCompressibilityModel/barotropicCompressibilityModel.dep\
+barotropicCompressibilityModel/newBarotropicCompressibilityModel.dep\
+linear/linear.dep\
+Wallis/Wallis.dep\
+Chung/Chung.dep

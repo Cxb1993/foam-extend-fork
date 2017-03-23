@@ -1,0 +1,4 @@
+LOCAL_OBJECTS = \
+solidParticle.o\
+solidParticleIO.o\
+solidParticleCloud.o

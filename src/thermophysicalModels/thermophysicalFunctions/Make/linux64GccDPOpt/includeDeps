@@ -1,0 +1,11 @@
+include $(thermophysicalFunction)/thermophysicalFunction.dep
+include $(NSRDSfunctions)/NSRDSfunc0/NSRDSfunc0.dep
+include $(NSRDSfunctions)/NSRDSfunc1/NSRDSfunc1.dep
+include $(NSRDSfunctions)/NSRDSfunc2/NSRDSfunc2.dep
+include $(NSRDSfunctions)/NSRDSfunc3/NSRDSfunc3.dep
+include $(NSRDSfunctions)/NSRDSfunc4/NSRDSfunc4.dep
+include $(NSRDSfunctions)/NSRDSfunc5/NSRDSfunc5.dep
+include $(NSRDSfunctions)/NSRDSfunc6/NSRDSfunc6.dep
+include $(NSRDSfunctions)/NSRDSfunc7/NSRDSfunc7.dep
+include $(NSRDSfunctions)/NSRDSfunc14/NSRDSfunc14.dep
+include $(APIfunctions)/APIdiffCoefFunc/APIdiffCoefFunc.dep

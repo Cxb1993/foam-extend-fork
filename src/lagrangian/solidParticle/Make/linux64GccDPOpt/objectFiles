@@ -1,0 +1,4 @@
+OBJECTS = \
+$(OBJECTS_DIR)/solidParticle.o\
+$(OBJECTS_DIR)/solidParticleIO.o\
+$(OBJECTS_DIR)/solidParticleCloud.o

@@ -1,0 +1,6 @@
+DEPENDENCIES = \
+laminarFlameSpeed/laminarFlameSpeed.dep\
+laminarFlameSpeed/newLaminarFlameSpeed.dep\
+constant/constant.dep\
+Gulders/Gulders.dep\
+GuldersEGR/GuldersEGR.dep

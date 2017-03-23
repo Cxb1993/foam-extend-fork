@@ -1,0 +1,8 @@
+DEPENDENCIES = \
+$(atomicWeights)/atomicWeights.dep\
+$(specie)/specie.dep\
+$(speciesTable)/speciesTable.dep\
+$(equationOfState)/perfectGas/perfectGas.dep\
+$(reactions)/makeChemkinReactions.dep\
+$(reactions)/makeReactionThermoReactions.dep\
+$(reactions)/makeLangmuirHinshelwoodReactions.dep

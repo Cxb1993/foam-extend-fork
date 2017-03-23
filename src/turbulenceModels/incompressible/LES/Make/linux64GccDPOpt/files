@@ -1,0 +1,90 @@
+# 1 "files"
+# 1 "<built-in>"
+# 1 "<command-line>"
+
+
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+
+# 17 "/usr/include/stdc-predef.h" 3 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 2 "<command-line>" 2
+# 1 "files"
+vanDriestDelta/vanDriestDelta.C
+
+LESModel/LESModel.C
+
+GenEddyVisc/GenEddyVisc.C
+GenSGSStress/GenSGSStress.C
+
+laminar/laminar.C
+SpalartAllmaras/SpalartAllmaras.C
+SpalartAllmarasDDES/SpalartAllmarasDDES.C
+SpalartAllmarasIDDES/SpalartAllmarasIDDES.C
+SpalartAllmarasIDDES/IDDESDelta/IDDESDelta.C
+
+oneEqEddy/oneEqEddy.C
+dynOneEqEddy/dynOneEqEddy.C
+locDynOneEqEddy/locDynOneEqEddy.C
+Smagorinsky/Smagorinsky.C
+dynSmagorinsky/dynSmagorinsky.C
+LRRDiffStress/LRRDiffStress.C
+DeardorffDiffStress/DeardorffDiffStress.C
+spectEddyVisc/spectEddyVisc.C
+
+scaleSimilarity/scaleSimilarity.C
+mixedSmagorinsky/mixedSmagorinsky.C
+dynMixedSmagorinsky/dynMixedSmagorinsky.C
+
+
+
+kOmegaSSTSAS/kOmegaSSTSAS.C
+
+
+wallFunctions=derivedFvPatchFields/wallFunctions
+
+nuSgsWallFunctions=$(wallFunctions)/nuSgsWallFunctions
+$(nuSgsWallFunctions)/nuSgsWallFunction/nuSgsWallFunctionFvPatchScalarField.C
+
+
+LIB = $(FOAM_LIBBIN)/libincompressibleLESModels

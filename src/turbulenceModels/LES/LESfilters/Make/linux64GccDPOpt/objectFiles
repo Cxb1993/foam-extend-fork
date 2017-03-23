@@ -1,0 +1,5 @@
+OBJECTS = \
+$(OBJECTS_DIR)/LESfilter.o\
+$(OBJECTS_DIR)/simpleFilter.o\
+$(OBJECTS_DIR)/laplaceFilter.o\
+$(OBJECTS_DIR)/anisotropicFilter.o

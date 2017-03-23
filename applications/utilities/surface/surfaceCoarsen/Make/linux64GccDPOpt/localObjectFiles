@@ -1,0 +1,4 @@
+LOCAL_OBJECTS = \
+progmesh.o\
+vector.o\
+surfaceCoarsen.o

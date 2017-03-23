@@ -1,0 +1,23 @@
+DEPENDENCIES = \
+foam/DimensionedTypes/dimensionedVectorTensorN/dimensionedVectorTensorN.dep\
+finiteVolume/fields/fvPatchFields/fvPatchVectorNFields.dep\
+finiteVolume/fields/fvPatchFields/genericFvPatchVectorNFields.dep\
+finiteVolume/fields/fvPatchFields/calculatedFvPatchVectorNFields.dep\
+finiteVolume/fields/fvPatchFields/emptyFvPatchVectorNFields.dep\
+finiteVolume/fields/fvPatchFields/transformFvPatchVectorNFields.dep\
+finiteVolume/fields/fvPatchFields/wedgeFvPatchVectorNFields.dep\
+finiteVolume/fields/fvPatchFields/coupledFvPatchVectorNFields.dep\
+finiteVolume/fields/fvPatchFields/processorFvPatchVectorNFields.dep\
+finiteVolume/fields/fvPatchFields/cyclicFvPatchVectorNFields.dep\
+finiteVolume/fields/fvPatchFields/fixedValueFvPatchVectorNFields.dep\
+finiteVolume/fields/fvPatchFields/zeroGradientFvPatchVectorNFields.dep\
+finiteVolume/fields/fvPatchFields/fixedGradientFvPatchVectorNFields.dep\
+finiteVolume/fields/fvsPatchFields/fvsPatchVectorNFields.dep\
+finiteVolume/fields/fvsPatchFields/calculatedFvsPatchVectorNFields.dep\
+finiteVolume/fields/fvsPatchFields/emptyFvsPatchVectorNFields.dep\
+finiteVolume/fields/fvsPatchFields/wedgeFvsPatchVectorNFields.dep\
+finiteVolume/fields/fvsPatchFields/coupledFvsPatchVectorNFields.dep\
+finiteVolume/fields/fvsPatchFields/processorFvsPatchVectorNFields.dep\
+finiteVolume/fields/volFields/volVectorNFields.dep\
+finiteVolume/fields/surfaceFields/surfaceVectorNFields.dep\
+finiteVolume/interpolation/VectorNSurfaceInterpolationSchemes.dep

@@ -1,0 +1,19 @@
+OBJECTS = \
+$(OBJECTS_DIR)/ensightFile.o\
+$(OBJECTS_DIR)/ensightGeoFile.o\
+$(OBJECTS_DIR)/ensightPart.o\
+$(OBJECTS_DIR)/ensightPartIO.o\
+$(OBJECTS_DIR)/ensightPartCells.o\
+$(OBJECTS_DIR)/ensightPartFaces.o\
+$(OBJECTS_DIR)/ensightParts.o\
+$(OBJECTS_DIR)/boundaryRegion.o\
+$(OBJECTS_DIR)/cellTable.o\
+$(OBJECTS_DIR)/meshReader.o\
+$(OBJECTS_DIR)/meshReaderAux.o\
+$(OBJECTS_DIR)/calcPointCells.o\
+$(OBJECTS_DIR)/createPolyCells.o\
+$(OBJECTS_DIR)/createPolyBoundary.o\
+$(OBJECTS_DIR)/STARCDMeshReader.o\
+$(OBJECTS_DIR)/meshWriter.o\
+$(OBJECTS_DIR)/STARCDMeshWriter.o\
+$(OBJECTS_DIR)/polyDualMesh.o

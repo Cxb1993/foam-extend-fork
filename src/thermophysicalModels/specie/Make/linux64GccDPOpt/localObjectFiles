@@ -1,0 +1,8 @@
+LOCAL_OBJECTS = \
+atomicWeights.o\
+specie.o\
+speciesTable.o\
+perfectGas.o\
+makeChemkinReactions.o\
+makeReactionThermoReactions.o\
+makeLangmuirHinshelwoodReactions.o

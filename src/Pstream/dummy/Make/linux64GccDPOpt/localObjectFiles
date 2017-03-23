@@ -1,0 +1,4 @@
+LOCAL_OBJECTS = \
+Pstream.o\
+IPread.o\
+OPwrite.o

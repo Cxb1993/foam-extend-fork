@@ -1,0 +1,4 @@
+sDoFRBM = pointPatchFields/derived/sixDoFRigidBodyMotion
+sDoFRBMR = $(sDoFRBM)/sixDoFRigidBodyMotionRestraint
+sDoFRBMC = $(sDoFRBM)/sixDoFRigidBodyMotionConstraint
+LIB = $(FOAM_LIBBIN)/libforces

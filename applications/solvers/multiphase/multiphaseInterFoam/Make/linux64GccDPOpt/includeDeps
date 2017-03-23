@@ -1,0 +1,4 @@
+include multiphaseMixture/phase/phase.dep
+include multiphaseMixture/alphaContactAngle/alphaContactAngleFvPatchScalarField.dep
+include multiphaseMixture/multiphaseMixture.dep
+include multiphaseInterFoam.dep

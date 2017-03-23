@@ -1,0 +1,53 @@
+# 1 "options"
+# 1 "<built-in>"
+# 1 "<command-line>"
+
+
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+
+# 17 "/usr/include/stdc-predef.h" 3 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 2 "<command-line>" 2
+# 1 "options"
+EXE_LIBS =     -lbasicThermophysicalModels     -lchemistryModel     -lreactionThermophysicalModels     -lcompressibleLESModels     -ldecompositionMethods     -ldieselSpray     -ldynamicFvMesh     -ldynamicMesh     -ledgeMesh     -lengine     -lerrorEstimation     -lfiniteVolume     -lfiniteArea     -lfoam     -ltetFiniteElement     -ltetMotionSolver     -lforces     -lfvMotionSolver     -lincompressibleLESModels     -lincompressibleTransportModels     -lcompressibleRASModels     -lincompressibleRASModels     -linterfaceProperties     -llagrangianIntermediate     -llagrangian     -llaminarFlameSpeedModels     -lLESdeltas     -lLESfilters     -lliquidMixture     -lliquids     -lmeshTools     -lODE     -lpdf     -lphaseModel     -lradiation     -lrandomProcesses     -lsampling     -lsolidMixture     -lsolids     -lspecie     -lthermophysicalFunctions     -ltopoChangerFvMesh     -ltriSurface     -lautoMesh     -L$(MESQUITE_LIB_DIR) -lmesquite

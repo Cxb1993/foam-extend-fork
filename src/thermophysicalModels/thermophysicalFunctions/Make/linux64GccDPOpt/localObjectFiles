@@ -1,0 +1,12 @@
+LOCAL_OBJECTS = \
+thermophysicalFunction.o\
+NSRDSfunc0.o\
+NSRDSfunc1.o\
+NSRDSfunc2.o\
+NSRDSfunc3.o\
+NSRDSfunc4.o\
+NSRDSfunc5.o\
+NSRDSfunc6.o\
+NSRDSfunc7.o\
+NSRDSfunc14.o\
+APIdiffCoefFunc.o

@@ -1,0 +1,5 @@
+SOURCE = \
+multiphaseMixture/phase/phase.C\
+multiphaseMixture/alphaContactAngle/alphaContactAngleFvPatchScalarField.C\
+multiphaseMixture/multiphaseMixture.C\
+multiphaseInterFoam.C

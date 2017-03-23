@@ -1,0 +1,3 @@
+SOURCE = \
+fluentDataConverter.C\
+fluentDataToFoam.L

@@ -1,0 +1,5 @@
+OBJECTS = \
+$(OBJECTS_DIR)/staticPressure.o\
+$(OBJECTS_DIR)/staticPressureFunctionObject.o\
+$(OBJECTS_DIR)/dsmcFields.o\
+$(OBJECTS_DIR)/dsmcFieldsFunctionObject.o

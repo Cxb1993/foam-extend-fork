@@ -1,0 +1,10 @@
+interactionLists = interactionLists
+referredMolecule = $(interactionLists)/referredMolecule
+referredCellList = $(interactionLists)/referredCellList
+referredCell = $(interactionLists)/referredCell
+referralLists = $(interactionLists)/referralLists
+directInteractionList = $(interactionLists)/directInteractionList
+reducedUnits = reducedUnits
+molecule = molecule
+moleculeCloud = moleculeCloud
+LIB = $(FOAM_LIBBIN)/libmolecule

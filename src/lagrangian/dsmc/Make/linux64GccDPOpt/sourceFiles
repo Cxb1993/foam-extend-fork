@@ -1,0 +1,7 @@
+SOURCE = \
+parcels/derived/dsmcParcel/dsmcParcel.C\
+clouds/baseClasses/DsmcBaseCloud/DsmcBaseCloud.C\
+parcels/derived/dsmcParcel/defineDsmcParcel.C\
+parcels/derived/dsmcParcel/makeDsmcParcelBinaryCollisionModels.C\
+parcels/derived/dsmcParcel/makeDsmcParcelWallInteractionModels.C\
+parcels/derived/dsmcParcel/makeDsmcParcelInflowBoundaryModels.C

@@ -1,0 +1,17 @@
+DEPENDENCIES = \
+coupledFacePair.dep\
+starMesh.dep\
+readPoints.dep\
+readCells.dep\
+readBoundary.dep\
+fixCollapsedEdges.dep\
+readCouples.dep\
+createCoupleMatches.dep\
+mergeCoupleFacePoints.dep\
+calcPointCells.dep\
+createPolyCells.dep\
+createBoundaryFaces.dep\
+createPolyBoundary.dep\
+purgeCellShapes.dep\
+writeMesh.dep\
+starToFoam.dep

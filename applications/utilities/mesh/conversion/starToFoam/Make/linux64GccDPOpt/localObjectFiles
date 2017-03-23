@@ -1,0 +1,17 @@
+LOCAL_OBJECTS = \
+coupledFacePair.o\
+starMesh.o\
+readPoints.o\
+readCells.o\
+readBoundary.o\
+fixCollapsedEdges.o\
+readCouples.o\
+createCoupleMatches.o\
+mergeCoupleFacePoints.o\
+calcPointCells.o\
+createPolyCells.o\
+createBoundaryFaces.o\
+createPolyBoundary.o\
+purgeCellShapes.o\
+writeMesh.o\
+starToFoam.o

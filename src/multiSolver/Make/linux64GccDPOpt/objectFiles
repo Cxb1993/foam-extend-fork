@@ -1,0 +1,6 @@
+OBJECTS = \
+$(OBJECTS_DIR)/dummyControlDict.o\
+$(OBJECTS_DIR)/multiTime.o\
+$(OBJECTS_DIR)/multiSolver.o\
+$(OBJECTS_DIR)/timeCluster.o\
+$(OBJECTS_DIR)/timeClusterList.o

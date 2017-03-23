@@ -1,0 +1,4 @@
+OBJECTS = \
+$(OBJECTS_DIR)/collapseBase.o\
+$(OBJECTS_DIR)/collapseEdge.o\
+$(OBJECTS_DIR)/surfaceClean.o

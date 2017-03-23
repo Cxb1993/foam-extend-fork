@@ -1,0 +1,26 @@
+OBJECTS = \
+$(OBJECTS_DIR)/rheologyModel.o\
+$(OBJECTS_DIR)/rheologyLaw.o\
+$(OBJECTS_DIR)/newRheologyLaw.o\
+$(OBJECTS_DIR)/linearElastic.o\
+$(OBJECTS_DIR)/multiMaterial.o\
+$(OBJECTS_DIR)/MaxwellViscoelastic.o\
+$(OBJECTS_DIR)/BurgersViscoelastic.o\
+$(OBJECTS_DIR)/KelvinSLSViscoelastic.o\
+$(OBJECTS_DIR)/MaxwellSLSViscoelastic.o\
+$(OBJECTS_DIR)/MaxwellElasticViscoelastic.o\
+$(OBJECTS_DIR)/PronyViscoelastic.o\
+$(OBJECTS_DIR)/thermalModel.o\
+$(OBJECTS_DIR)/thermalLaw.o\
+$(OBJECTS_DIR)/newThermalLaw.o\
+$(OBJECTS_DIR)/constantThermal.o\
+$(OBJECTS_DIR)/multiMaterialThermal.o\
+$(OBJECTS_DIR)/cohesiveLaw.o\
+$(OBJECTS_DIR)/DugdaleCohesiveLaw.o\
+$(OBJECTS_DIR)/linearCohesiveLaw.o\
+$(OBJECTS_DIR)/tractionDisplacementFvPatchVectorField.o\
+$(OBJECTS_DIR)/tractionDisplacementThermoFvPatchVectorField.o\
+$(OBJECTS_DIR)/nusseltFvPatchScalarField.o\
+$(OBJECTS_DIR)/newDirectionMixedFvPatchFields.o\
+$(OBJECTS_DIR)/cohesiveLawFvPatchVectorField.o\
+$(OBJECTS_DIR)/cohesiveZoneFvPatchVectorField.o

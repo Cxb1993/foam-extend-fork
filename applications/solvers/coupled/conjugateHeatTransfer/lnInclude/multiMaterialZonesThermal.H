@@ -1,0 +1,1 @@
+../thermalModel/thermalLaws/multiMaterialZonesThermal/multiMaterialZonesThermal.H

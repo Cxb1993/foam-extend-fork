@@ -1,0 +1,24 @@
+OBJECTS = \
+$(OBJECTS_DIR)/XiModel.o\
+$(OBJECTS_DIR)/newXiModel.o\
+$(OBJECTS_DIR)/fixed.o\
+$(OBJECTS_DIR)/algebraic.o\
+$(OBJECTS_DIR)/transport.o\
+$(OBJECTS_DIR)/XiEqModel.o\
+$(OBJECTS_DIR)/newXiEqModel.o\
+$(OBJECTS_DIR)/Gulder.o\
+$(OBJECTS_DIR)/instabilityXiEq.o\
+$(OBJECTS_DIR)/SCOPEBlendXiEq.o\
+$(OBJECTS_DIR)/SCOPEXiEq.o\
+$(OBJECTS_DIR)/XiGModel.o\
+$(OBJECTS_DIR)/newXiGModel.o\
+$(OBJECTS_DIR)/KTS.o\
+$(OBJECTS_DIR)/instabilityG.o\
+$(OBJECTS_DIR)/PDRkEpsilon.o\
+$(OBJECTS_DIR)/PDRDragModel.o\
+$(OBJECTS_DIR)/newPDRDragModel.o\
+$(OBJECTS_DIR)/basic.o\
+$(OBJECTS_DIR)/basicXiSubXiEq.o\
+$(OBJECTS_DIR)/basicXiSubG.o\
+$(OBJECTS_DIR)/SCOPELaminarFlameSpeed.o\
+$(OBJECTS_DIR)/PDRFoam.o

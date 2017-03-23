@@ -1,0 +1,7 @@
+DEPENDENCIES = \
+solidBodyMotionFunction/solidBodyMotionFunction.dep\
+solidBodyMotionFunction/newSolidBodyMotionFunction.dep\
+translation/translation.dep\
+linearOscillation/linearOscillation.dep\
+SDA/SDA.dep\
+SKA/SKA.dep

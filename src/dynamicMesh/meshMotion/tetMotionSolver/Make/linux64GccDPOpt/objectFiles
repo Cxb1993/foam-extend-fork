@@ -1,0 +1,14 @@
+OBJECTS = \
+$(OBJECTS_DIR)/tetMotionSolver.o\
+$(OBJECTS_DIR)/laplaceTetMotionSolver.o\
+$(OBJECTS_DIR)/pseudoSolidTetMotionSolver.o\
+$(OBJECTS_DIR)/cellQuality.o\
+$(OBJECTS_DIR)/motionDiff.o\
+$(OBJECTS_DIR)/uniformDiff.o\
+$(OBJECTS_DIR)/deformationEnergyDiff.o\
+$(OBJECTS_DIR)/distortionEnergyDiff.o\
+$(OBJECTS_DIR)/linearDiff.o\
+$(OBJECTS_DIR)/quadraticDiff.o\
+$(OBJECTS_DIR)/exponentialDiff.o\
+$(OBJECTS_DIR)/patchEnhancedDiff.o\
+$(OBJECTS_DIR)/fileDiff.o

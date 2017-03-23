@@ -1,0 +1,6 @@
+include solidBodyMotionFunction/solidBodyMotionFunction.dep
+include solidBodyMotionFunction/newSolidBodyMotionFunction.dep
+include translation/translation.dep
+include linearOscillation/linearOscillation.dep
+include SDA/SDA.dep
+include SKA/SKA.dep

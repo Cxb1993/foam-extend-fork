@@ -1,0 +1,7 @@
+LOCAL_OBJECTS = \
+regionProperties.o\
+solidWallHeatFluxTemperatureFvPatchScalarField.o\
+solidWallMixedTemperatureCoupledFvPatchScalarField.o\
+compressibleCourantNo.o\
+solidRegionDiffNo.o\
+chtMultiRegionFoam.o

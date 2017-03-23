@@ -1,0 +1,8 @@
+include $(Kmesh)/Kmesh.dep
+include $(fft)/fft.dep
+include $(fft)/fftRenumber.dep
+include $(fft)/calcEk.dep
+include $(fft)/kShellIntegration.dep
+include $(UOprocess)/UOprocess.dep
+include $(turbulence)/turbGen.dep
+include $(noise)/noiseFFT.dep

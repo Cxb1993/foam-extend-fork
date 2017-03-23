@@ -1,0 +1,1 @@
+../dynSmagorinsky/dynSmagorinsky.C

@@ -1,0 +1,6 @@
+OBJECTS = \
+$(OBJECTS_DIR)/itoa.o\
+$(OBJECTS_DIR)/ensightMesh.o\
+$(OBJECTS_DIR)/ensightParticlePositions.o\
+$(OBJECTS_DIR)/foamToEnsight.o\
+$(OBJECTS_DIR)/ensightWriteBinary.o

@@ -1,0 +1,13 @@
+DEPENDENCIES = \
+$(referralLists)/sendingReferralList.dep\
+$(referralLists)/receivingReferralList.dep\
+$(referredCellList)/referredCellList.dep\
+$(referredCell)/referredCell.dep\
+$(referredMolecule)/referredMolecule.dep\
+$(directInteractionList)/directInteractionList.dep\
+$(interactionLists)/interactionLists.dep\
+$(reducedUnits)/reducedUnits.dep\
+$(reducedUnits)/reducedUnitsIO.dep\
+$(molecule)/molecule.dep\
+$(molecule)/moleculeIO.dep\
+$(moleculeCloud)/moleculeCloud.dep

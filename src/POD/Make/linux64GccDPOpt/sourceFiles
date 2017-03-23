@@ -1,0 +1,5 @@
+SOURCE = \
+PODEigenBase/PODEigenBase.C\
+PODOrthoNormalBase/scalarPODOrthoNormalBase.C\
+PODODE/PODODE.C\
+scalarTransportPOD/scalarTransportPOD.C

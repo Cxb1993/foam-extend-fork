@@ -1,0 +1,6 @@
+OBJECTS = \
+$(OBJECTS_DIR)/LESdelta.o\
+$(OBJECTS_DIR)/cubeRootVolDelta.o\
+$(OBJECTS_DIR)/PrandtlDelta.o\
+$(OBJECTS_DIR)/maxEdgeLengthDelta.o\
+$(OBJECTS_DIR)/smoothDelta.o

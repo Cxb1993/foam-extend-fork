@@ -1,0 +1,2 @@
+include femStress/tractionTetPolyPatchVectorField.dep
+include stressFemFoam.dep

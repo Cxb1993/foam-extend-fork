@@ -1,0 +1,27 @@
+OBJECTS = \
+$(OBJECTS_DIR)/potential.o\
+$(OBJECTS_DIR)/pairPotentialList.o\
+$(OBJECTS_DIR)/pairPotential.o\
+$(OBJECTS_DIR)/pairPotentialIO.o\
+$(OBJECTS_DIR)/newPairPotential.o\
+$(OBJECTS_DIR)/lennardJones.o\
+$(OBJECTS_DIR)/maitlandSmith.o\
+$(OBJECTS_DIR)/azizChen.o\
+$(OBJECTS_DIR)/exponentialRepulsion.o\
+$(OBJECTS_DIR)/coulomb.o\
+$(OBJECTS_DIR)/dampedCoulomb.o\
+$(OBJECTS_DIR)/noInteraction.o\
+$(OBJECTS_DIR)/energyScalingFunction.o\
+$(OBJECTS_DIR)/newEnergyScalingFunction.o\
+$(OBJECTS_DIR)/shifted.o\
+$(OBJECTS_DIR)/shiftedForce.o\
+$(OBJECTS_DIR)/noScaling.o\
+$(OBJECTS_DIR)/sigmoid.o\
+$(OBJECTS_DIR)/doubleSigmoid.o\
+$(OBJECTS_DIR)/tetherPotentialList.o\
+$(OBJECTS_DIR)/tetherPotential.o\
+$(OBJECTS_DIR)/newTetherPotential.o\
+$(OBJECTS_DIR)/harmonicSpring.o\
+$(OBJECTS_DIR)/restrainedHarmonicSpring.o\
+$(OBJECTS_DIR)/pitchForkRing.o\
+$(OBJECTS_DIR)/electrostaticPotential.o

@@ -1,0 +1,3 @@
+SOURCE = \
+tractionDisplacementCorrection/tractionDisplacementCorrectionFvPatchVectorField.C\
+solidEquilibriumDisplacementFoam.C

@@ -1,0 +1,62 @@
+# 1 "options"
+# 1 "<built-in>"
+# 1 "<command-line>"
+
+
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+
+# 17 "/usr/include/stdc-predef.h" 3 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 2 "<command-line>" 2
+# 1 "options"
+include $(RULES)/mplib$(WM_MPLIB)
+
+EXE_INC =     $(PFLAGS) $(PINC)     -I$(PARMETIS_INCLUDE_DIR)     -I../decompositionMethods/lnInclude     -I../metisDecomp/lnInclude     -I../scotchDecomp/lnInclude
+
+
+
+
+
+
+LIB_LIBS =     -L$(FOAM_MPI_LIBBIN)     -L$(PARMETIS_LIB_DIR) -lparmetis

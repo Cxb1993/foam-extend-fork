@@ -1,0 +1,23 @@
+DEPENDENCIES = \
+vanDriestDelta/vanDriestDelta.dep\
+LESModel/LESModel.dep\
+GenEddyVisc/GenEddyVisc.dep\
+GenSGSStress/GenSGSStress.dep\
+laminar/laminar.dep\
+SpalartAllmaras/SpalartAllmaras.dep\
+SpalartAllmarasDDES/SpalartAllmarasDDES.dep\
+SpalartAllmarasIDDES/SpalartAllmarasIDDES.dep\
+SpalartAllmarasIDDES/IDDESDelta/IDDESDelta.dep\
+oneEqEddy/oneEqEddy.dep\
+dynOneEqEddy/dynOneEqEddy.dep\
+locDynOneEqEddy/locDynOneEqEddy.dep\
+Smagorinsky/Smagorinsky.dep\
+dynSmagorinsky/dynSmagorinsky.dep\
+LRRDiffStress/LRRDiffStress.dep\
+DeardorffDiffStress/DeardorffDiffStress.dep\
+spectEddyVisc/spectEddyVisc.dep\
+scaleSimilarity/scaleSimilarity.dep\
+mixedSmagorinsky/mixedSmagorinsky.dep\
+dynMixedSmagorinsky/dynMixedSmagorinsky.dep\
+kOmegaSSTSAS/kOmegaSSTSAS.dep\
+$(nuSgsWallFunctions)/nuSgsWallFunction/nuSgsWallFunctionFvPatchScalarField.dep

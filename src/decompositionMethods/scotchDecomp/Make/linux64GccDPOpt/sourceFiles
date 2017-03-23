@@ -1,0 +1,3 @@
+SOURCE = \
+scotchDecomp/scotchDecomp.C\
+engineScotchDecomp/engineScotchDecomp.C

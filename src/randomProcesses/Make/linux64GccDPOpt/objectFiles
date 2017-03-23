@@ -1,0 +1,9 @@
+OBJECTS = \
+$(OBJECTS_DIR)/Kmesh.o\
+$(OBJECTS_DIR)/fft.o\
+$(OBJECTS_DIR)/fftRenumber.o\
+$(OBJECTS_DIR)/calcEk.o\
+$(OBJECTS_DIR)/kShellIntegration.o\
+$(OBJECTS_DIR)/UOprocess.o\
+$(OBJECTS_DIR)/turbGen.o\
+$(OBJECTS_DIR)/noiseFFT.o

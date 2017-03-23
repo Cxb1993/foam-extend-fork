@@ -1,0 +1,24 @@
+DEPENDENCIES = \
+forces/forces.dep\
+forces/forcesFunctionObject.dep\
+forceCoeffs/forceCoeffs.dep\
+forceCoeffs/forceCoeffsFunctionObject.dep\
+$(sDoFRBM)/sixDoFRigidBodyMotion.dep\
+$(sDoFRBM)/sixDoFRigidBodyMotionIO.dep\
+$(sDoFRBM)/sixDoFRigidBodyMotionState.dep\
+$(sDoFRBM)/sixDoFRigidBodyMotionStateIO.dep\
+$(sDoFRBMR)/sixDoFRigidBodyMotionRestraint/sixDoFRigidBodyMotionRestraint.dep\
+$(sDoFRBMR)/sixDoFRigidBodyMotionRestraint/newSixDoFRigidBodyMotionRestraint.dep\
+$(sDoFRBMR)/linearAxialAngularSpring/linearAxialAngularSpring.dep\
+$(sDoFRBMR)/linearSpring/linearSpring.dep\
+$(sDoFRBMR)/sphericalAngularSpring/sphericalAngularSpring.dep\
+$(sDoFRBMR)/tabulatedAxialAngularSpring/tabulatedAxialAngularSpring.dep\
+$(sDoFRBMC)/sixDoFRigidBodyMotionConstraint/sixDoFRigidBodyMotionConstraint.dep\
+$(sDoFRBMC)/sixDoFRigidBodyMotionConstraint/newSixDoFRigidBodyMotionConstraint.dep\
+$(sDoFRBMC)/fixedAxis/fixedAxis.dep\
+$(sDoFRBMC)/fixedLine/fixedLine.dep\
+$(sDoFRBMC)/fixedOrientation/fixedOrientation.dep\
+$(sDoFRBMC)/fixedPlane/fixedPlane.dep\
+$(sDoFRBMC)/fixedPoint/fixedPoint.dep\
+pointPatchFields/derived/sixDoFRigidBodyDisplacement/sixDoFRigidBodyDisplacementPointPatchVectorField.dep\
+pointPatchFields/derived/uncoupledSixDoFRigidBodyDisplacement/uncoupledSixDoFRigidBodyDisplacementPointPatchVectorField.dep

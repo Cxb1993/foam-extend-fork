@@ -1,0 +1,7 @@
+LOCAL_OBJECTS = \
+dsmcParcel.o\
+DsmcBaseCloud.o\
+defineDsmcParcel.o\
+makeDsmcParcelBinaryCollisionModels.o\
+makeDsmcParcelWallInteractionModels.o\
+makeDsmcParcelInflowBoundaryModels.o

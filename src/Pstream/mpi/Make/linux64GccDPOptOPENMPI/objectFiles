@@ -1,0 +1,5 @@
+OBJECTS = \
+$(OBJECTS_DIR)/OPwrite.o\
+$(OBJECTS_DIR)/IPread.o\
+$(OBJECTS_DIR)/Pstream.o\
+$(OBJECTS_DIR)/PstreamGlobals.o

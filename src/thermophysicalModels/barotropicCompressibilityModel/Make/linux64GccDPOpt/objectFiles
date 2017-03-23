@@ -1,0 +1,6 @@
+OBJECTS = \
+$(OBJECTS_DIR)/barotropicCompressibilityModel.o\
+$(OBJECTS_DIR)/newBarotropicCompressibilityModel.o\
+$(OBJECTS_DIR)/linear.o\
+$(OBJECTS_DIR)/Wallis.o\
+$(OBJECTS_DIR)/Chung.o

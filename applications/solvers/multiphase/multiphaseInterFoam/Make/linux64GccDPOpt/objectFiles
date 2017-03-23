@@ -1,0 +1,5 @@
+OBJECTS = \
+$(OBJECTS_DIR)/phase.o\
+$(OBJECTS_DIR)/alphaContactAngleFvPatchScalarField.o\
+$(OBJECTS_DIR)/multiphaseMixture.o\
+$(OBJECTS_DIR)/multiphaseInterFoam.o

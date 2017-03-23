@@ -1,0 +1,23 @@
+OBJECTS = \
+$(OBJECTS_DIR)/dimensionedVectorTensorN.o\
+$(OBJECTS_DIR)/fvPatchVectorNFields.o\
+$(OBJECTS_DIR)/genericFvPatchVectorNFields.o\
+$(OBJECTS_DIR)/calculatedFvPatchVectorNFields.o\
+$(OBJECTS_DIR)/emptyFvPatchVectorNFields.o\
+$(OBJECTS_DIR)/transformFvPatchVectorNFields.o\
+$(OBJECTS_DIR)/wedgeFvPatchVectorNFields.o\
+$(OBJECTS_DIR)/coupledFvPatchVectorNFields.o\
+$(OBJECTS_DIR)/processorFvPatchVectorNFields.o\
+$(OBJECTS_DIR)/cyclicFvPatchVectorNFields.o\
+$(OBJECTS_DIR)/fixedValueFvPatchVectorNFields.o\
+$(OBJECTS_DIR)/zeroGradientFvPatchVectorNFields.o\
+$(OBJECTS_DIR)/fixedGradientFvPatchVectorNFields.o\
+$(OBJECTS_DIR)/fvsPatchVectorNFields.o\
+$(OBJECTS_DIR)/calculatedFvsPatchVectorNFields.o\
+$(OBJECTS_DIR)/emptyFvsPatchVectorNFields.o\
+$(OBJECTS_DIR)/wedgeFvsPatchVectorNFields.o\
+$(OBJECTS_DIR)/coupledFvsPatchVectorNFields.o\
+$(OBJECTS_DIR)/processorFvsPatchVectorNFields.o\
+$(OBJECTS_DIR)/volVectorNFields.o\
+$(OBJECTS_DIR)/surfaceVectorNFields.o\
+$(OBJECTS_DIR)/VectorNSurfaceInterpolationSchemes.o

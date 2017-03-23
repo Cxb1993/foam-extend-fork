@@ -1,0 +1,7 @@
+LOCAL_OBJECTS = \
+fixedRhoFvPatchScalarField.o\
+gradientRhoFvPatchScalarField.o\
+fixedRhoEFvPatchScalarField.o\
+mixedRhoEFvPatchScalarField.o\
+fixedRhoUFvPatchVectorField.o\
+inviscidWallPFvPatchScalarField.o

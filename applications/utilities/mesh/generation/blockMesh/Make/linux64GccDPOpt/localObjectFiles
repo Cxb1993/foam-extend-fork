@@ -1,0 +1,26 @@
+LOCAL_OBJECTS = \
+curvedEdge.o\
+lineEdge.o\
+polyLine.o\
+polyLineEdge.o\
+arcEdge.o\
+ellipseEdge.o\
+BSpline.o\
+lineDivide.o\
+CatmullRomSpline.o\
+splineEdge.o\
+blockMesh.o\
+blockDescriptor.o\
+setEdge.o\
+block.o\
+createTopology.o\
+checkBlockMesh.o\
+createBlockOffsets.o\
+createMergeList.o\
+createPoints.o\
+createCells.o\
+createPatches.o\
+blockPoints.o\
+blockCells.o\
+blockBoundary.o\
+blockMeshApp.o

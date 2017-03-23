@@ -1,0 +1,4 @@
+OBJECTS = \
+$(OBJECTS_DIR)/contactProblem.o\
+$(OBJECTS_DIR)/contactPatchPair.o\
+$(OBJECTS_DIR)/newContactStressFoam.o

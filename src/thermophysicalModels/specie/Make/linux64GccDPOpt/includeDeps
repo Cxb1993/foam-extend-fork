@@ -1,0 +1,7 @@
+include $(atomicWeights)/atomicWeights.dep
+include $(specie)/specie.dep
+include $(speciesTable)/speciesTable.dep
+include $(equationOfState)/perfectGas/perfectGas.dep
+include $(reactions)/makeChemkinReactions.dep
+include $(reactions)/makeReactionThermoReactions.dep
+include $(reactions)/makeLangmuirHinshelwoodReactions.dep

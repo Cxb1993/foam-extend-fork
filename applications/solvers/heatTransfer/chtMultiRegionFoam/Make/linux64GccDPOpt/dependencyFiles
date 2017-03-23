@@ -1,0 +1,7 @@
+DEPENDENCIES = \
+regionProperties/regionProperties.dep\
+derivedFvPatchFields/solidWallHeatFluxTemperature/solidWallHeatFluxTemperatureFvPatchScalarField.dep\
+derivedFvPatchFields/solidWallMixedTemperatureCoupled/solidWallMixedTemperatureCoupledFvPatchScalarField.dep\
+fluid/compressibleCourantNo.dep\
+solid/solidRegionDiffNo.dep\
+chtMultiRegionFoam.dep

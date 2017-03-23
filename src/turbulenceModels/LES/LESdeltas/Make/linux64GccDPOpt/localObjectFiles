@@ -1,0 +1,6 @@
+LOCAL_OBJECTS = \
+LESdelta.o\
+cubeRootVolDelta.o\
+PrandtlDelta.o\
+maxEdgeLengthDelta.o\
+smoothDelta.o

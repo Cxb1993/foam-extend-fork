@@ -1,0 +1,5 @@
+DEPENDENCIES = \
+combustionModel/combustionModel.dep\
+combustionModel/newCombustionModel.dep\
+infinitelyFastChemistry/infinitelyFastChemistry.dep\
+noCombustion/noCombustion.dep

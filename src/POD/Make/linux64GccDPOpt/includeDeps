@@ -1,0 +1,4 @@
+include PODEigenBase/PODEigenBase.dep
+include PODOrthoNormalBase/scalarPODOrthoNormalBase.dep
+include PODODE/PODODE.dep
+include scalarTransportPOD/scalarTransportPOD.dep

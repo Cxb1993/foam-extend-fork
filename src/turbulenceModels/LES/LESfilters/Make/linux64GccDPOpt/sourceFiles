@@ -1,0 +1,5 @@
+SOURCE = \
+LESfilter/LESfilter.C\
+simpleFilter/simpleFilter.C\
+laplaceFilter/laplaceFilter.C\
+anisotropicFilter/anisotropicFilter.C

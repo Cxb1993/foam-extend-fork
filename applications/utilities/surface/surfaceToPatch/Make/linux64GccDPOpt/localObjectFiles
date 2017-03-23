@@ -1,0 +1,4 @@
+LOCAL_OBJECTS = \
+boundaryMesh.o\
+surfaceToPatch.o\
+treeDataPrimitivePatchName.o

@@ -1,0 +1,6 @@
+include rho/fixedRhoFvPatchScalarField.dep
+include rho/gradientRhoFvPatchScalarField.dep
+include rhoE/fixedRhoEFvPatchScalarField.dep
+include rhoE/mixedRhoEFvPatchScalarField.dep
+include rhoU/fixedRhoUFvPatchVectorField.dep
+include p/inviscidWallPFvPatchScalarField.dep

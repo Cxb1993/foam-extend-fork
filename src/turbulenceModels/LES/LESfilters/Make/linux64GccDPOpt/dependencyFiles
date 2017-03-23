@@ -1,0 +1,5 @@
+DEPENDENCIES = \
+LESfilter/LESfilter.dep\
+simpleFilter/simpleFilter.dep\
+laplaceFilter/laplaceFilter.dep\
+anisotropicFilter/anisotropicFilter.dep

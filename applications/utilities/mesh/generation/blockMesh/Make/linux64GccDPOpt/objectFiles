@@ -1,0 +1,26 @@
+OBJECTS = \
+$(OBJECTS_DIR)/curvedEdge.o\
+$(OBJECTS_DIR)/lineEdge.o\
+$(OBJECTS_DIR)/polyLine.o\
+$(OBJECTS_DIR)/polyLineEdge.o\
+$(OBJECTS_DIR)/arcEdge.o\
+$(OBJECTS_DIR)/ellipseEdge.o\
+$(OBJECTS_DIR)/BSpline.o\
+$(OBJECTS_DIR)/lineDivide.o\
+$(OBJECTS_DIR)/CatmullRomSpline.o\
+$(OBJECTS_DIR)/splineEdge.o\
+$(OBJECTS_DIR)/blockMesh.o\
+$(OBJECTS_DIR)/blockDescriptor.o\
+$(OBJECTS_DIR)/setEdge.o\
+$(OBJECTS_DIR)/block.o\
+$(OBJECTS_DIR)/createTopology.o\
+$(OBJECTS_DIR)/checkBlockMesh.o\
+$(OBJECTS_DIR)/createBlockOffsets.o\
+$(OBJECTS_DIR)/createMergeList.o\
+$(OBJECTS_DIR)/createPoints.o\
+$(OBJECTS_DIR)/createCells.o\
+$(OBJECTS_DIR)/createPatches.o\
+$(OBJECTS_DIR)/blockPoints.o\
+$(OBJECTS_DIR)/blockCells.o\
+$(OBJECTS_DIR)/blockBoundary.o\
+$(OBJECTS_DIR)/blockMeshApp.o

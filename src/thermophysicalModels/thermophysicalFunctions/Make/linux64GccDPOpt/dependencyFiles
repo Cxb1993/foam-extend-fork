@@ -1,0 +1,12 @@
+DEPENDENCIES = \
+$(thermophysicalFunction)/thermophysicalFunction.dep\
+$(NSRDSfunctions)/NSRDSfunc0/NSRDSfunc0.dep\
+$(NSRDSfunctions)/NSRDSfunc1/NSRDSfunc1.dep\
+$(NSRDSfunctions)/NSRDSfunc2/NSRDSfunc2.dep\
+$(NSRDSfunctions)/NSRDSfunc3/NSRDSfunc3.dep\
+$(NSRDSfunctions)/NSRDSfunc4/NSRDSfunc4.dep\
+$(NSRDSfunctions)/NSRDSfunc5/NSRDSfunc5.dep\
+$(NSRDSfunctions)/NSRDSfunc6/NSRDSfunc6.dep\
+$(NSRDSfunctions)/NSRDSfunc7/NSRDSfunc7.dep\
+$(NSRDSfunctions)/NSRDSfunc14/NSRDSfunc14.dep\
+$(APIfunctions)/APIdiffCoefFunc/APIdiffCoefFunc.dep

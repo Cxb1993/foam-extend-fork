@@ -1,0 +1,3 @@
+DEPENDENCIES = \
+derivedFvPatchFields/solidWallHeatFluxTemperature/solidWallHeatFluxTemperatureFvPatchScalarField.dep\
+chtMultiRegionSimpleFoam.dep

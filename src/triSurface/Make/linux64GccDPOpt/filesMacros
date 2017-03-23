@@ -1,0 +1,4 @@
+triSurfaceTools                       = triSurface/triSurfaceTools
+geometricSurfacePatch                 = triSurface/geometricSurfacePatch
+interfaces = triSurface/interfaces
+LIB = $(FOAM_LIBBIN)/libtriSurface

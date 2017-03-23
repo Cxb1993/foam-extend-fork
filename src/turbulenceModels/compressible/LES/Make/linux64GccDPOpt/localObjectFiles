@@ -1,0 +1,14 @@
+LOCAL_OBJECTS = \
+LESModel.o\
+GenEddyVisc.o\
+GenSGSStress.o\
+Smagorinsky.o\
+oneEqEddy.o\
+lowReOneEqEddy.o\
+dynOneEqEddy.o\
+DeardorffDiffStress.o\
+SpalartAllmaras.o\
+vanDriestDelta.o\
+muSgsWallFunctionFvPatchScalarField.o\
+alphaSgsWallFunctionFvPatchScalarField.o\
+alphaSgsJayatillekeWallFunctionFvPatchScalarField.o

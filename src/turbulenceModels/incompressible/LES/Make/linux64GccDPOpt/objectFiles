@@ -1,0 +1,23 @@
+OBJECTS = \
+$(OBJECTS_DIR)/vanDriestDelta.o\
+$(OBJECTS_DIR)/LESModel.o\
+$(OBJECTS_DIR)/GenEddyVisc.o\
+$(OBJECTS_DIR)/GenSGSStress.o\
+$(OBJECTS_DIR)/laminar.o\
+$(OBJECTS_DIR)/SpalartAllmaras.o\
+$(OBJECTS_DIR)/SpalartAllmarasDDES.o\
+$(OBJECTS_DIR)/SpalartAllmarasIDDES.o\
+$(OBJECTS_DIR)/IDDESDelta.o\
+$(OBJECTS_DIR)/oneEqEddy.o\
+$(OBJECTS_DIR)/dynOneEqEddy.o\
+$(OBJECTS_DIR)/locDynOneEqEddy.o\
+$(OBJECTS_DIR)/Smagorinsky.o\
+$(OBJECTS_DIR)/dynSmagorinsky.o\
+$(OBJECTS_DIR)/LRRDiffStress.o\
+$(OBJECTS_DIR)/DeardorffDiffStress.o\
+$(OBJECTS_DIR)/spectEddyVisc.o\
+$(OBJECTS_DIR)/scaleSimilarity.o\
+$(OBJECTS_DIR)/mixedSmagorinsky.o\
+$(OBJECTS_DIR)/dynMixedSmagorinsky.o\
+$(OBJECTS_DIR)/kOmegaSSTSAS.o\
+$(OBJECTS_DIR)/nuSgsWallFunctionFvPatchScalarField.o

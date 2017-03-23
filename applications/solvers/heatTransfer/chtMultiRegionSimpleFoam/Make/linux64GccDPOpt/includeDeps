@@ -1,0 +1,2 @@
+include derivedFvPatchFields/solidWallHeatFluxTemperature/solidWallHeatFluxTemperatureFvPatchScalarField.dep
+include chtMultiRegionSimpleFoam.dep

@@ -1,0 +1,7 @@
+$(OBJECTS_DIR)/vector.o: bunnylod/vector.dep
+bunnylod/vector.dep: bunnylod/vector.C
+bunnylod/vector.dep: bunnylod/vector.h
+$(OBJECTS_DIR)/vector.o: $(EXE_DEP)
+$(OBJECTS_DIR)/vector.o:
+	@SOURCE_DIR=bunnylod
+	SOURCE=bunnylod/vector.C ; $(Ctoo)

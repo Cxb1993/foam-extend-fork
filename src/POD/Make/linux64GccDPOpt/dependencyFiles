@@ -1,0 +1,5 @@
+DEPENDENCIES = \
+PODEigenBase/PODEigenBase.dep\
+PODOrthoNormalBase/scalarPODOrthoNormalBase.dep\
+PODODE/PODODE.dep\
+scalarTransportPOD/scalarTransportPOD.dep

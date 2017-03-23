@@ -1,0 +1,4 @@
+DEPENDENCIES = \
+collapseBase.dep\
+collapseEdge.dep\
+surfaceClean.dep

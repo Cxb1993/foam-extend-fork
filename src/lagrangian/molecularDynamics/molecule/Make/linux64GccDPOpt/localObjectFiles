@@ -1,0 +1,13 @@
+LOCAL_OBJECTS = \
+sendingReferralList.o\
+receivingReferralList.o\
+referredCellList.o\
+referredCell.o\
+referredMolecule.o\
+directInteractionList.o\
+interactionLists.o\
+reducedUnits.o\
+reducedUnitsIO.o\
+molecule.o\
+moleculeIO.o\
+moleculeCloud.o

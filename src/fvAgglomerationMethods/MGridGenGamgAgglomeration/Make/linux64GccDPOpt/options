@@ -1,0 +1,66 @@
+# 1 "options"
+# 1 "<built-in>"
+# 1 "<command-line>"
+
+
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+
+# 17 "/usr/include/stdc-predef.h" 3 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 2 "<command-line>" 2
+# 1 "options"
+ParMGridGen = $(WM_THIRD_PARTY_DIR)/ParMGridGen-1.0
+
+TYPE_REAL=
+
+
+
+
+EXE_INC =     -I$(LIB_SRC)/finiteVolume/lnInclude     -I$(PARMGRIDGEN_INCLUDE_DIR)/Lib        -I$(PARMGRIDGEN_INCLUDE_DIR)/IMlib      $(TYPE_REAL)
+
+
+
+
+
+LIB_LIBS =     -L$(PARMGRIDGEN_LIB_DIR) -lMGridGen

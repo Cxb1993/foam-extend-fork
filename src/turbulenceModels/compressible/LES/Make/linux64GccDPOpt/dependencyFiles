@@ -1,0 +1,14 @@
+DEPENDENCIES = \
+LESModel/LESModel.dep\
+GenEddyVisc/GenEddyVisc.dep\
+GenSGSStress/GenSGSStress.dep\
+Smagorinsky/Smagorinsky.dep\
+oneEqEddy/oneEqEddy.dep\
+lowReOneEqEddy/lowReOneEqEddy.dep\
+dynOneEqEddy/dynOneEqEddy.dep\
+DeardorffDiffStress/DeardorffDiffStress.dep\
+SpalartAllmaras/SpalartAllmaras.dep\
+vanDriestDelta/vanDriestDelta.dep\
+$(muSgsWallFunctions)/muSgsWallFunction/muSgsWallFunctionFvPatchScalarField.dep\
+$(alphaSgsWallFunctions)/alphaSgsWallFunction/alphaSgsWallFunctionFvPatchScalarField.dep\
+$(alphaSgsWallFunctions)/alphaSgsJayatillekeWallFunction/alphaSgsJayatillekeWallFunctionFvPatchScalarField.dep

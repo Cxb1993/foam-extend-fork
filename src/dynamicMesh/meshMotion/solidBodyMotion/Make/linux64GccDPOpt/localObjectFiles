@@ -1,0 +1,7 @@
+LOCAL_OBJECTS = \
+solidBodyMotionFunction.o\
+newSolidBodyMotionFunction.o\
+translation.o\
+linearOscillation.o\
+SDA.o\
+SKA.o

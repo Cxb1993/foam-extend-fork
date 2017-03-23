@@ -1,0 +1,5 @@
+LOCAL_OBJECTS = \
+LESfilter.o\
+simpleFilter.o\
+laplaceFilter.o\
+anisotropicFilter.o

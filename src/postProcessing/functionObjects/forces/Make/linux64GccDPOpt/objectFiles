@@ -1,0 +1,24 @@
+OBJECTS = \
+$(OBJECTS_DIR)/forces.o\
+$(OBJECTS_DIR)/forcesFunctionObject.o\
+$(OBJECTS_DIR)/forceCoeffs.o\
+$(OBJECTS_DIR)/forceCoeffsFunctionObject.o\
+$(OBJECTS_DIR)/sixDoFRigidBodyMotion.o\
+$(OBJECTS_DIR)/sixDoFRigidBodyMotionIO.o\
+$(OBJECTS_DIR)/sixDoFRigidBodyMotionState.o\
+$(OBJECTS_DIR)/sixDoFRigidBodyMotionStateIO.o\
+$(OBJECTS_DIR)/sixDoFRigidBodyMotionRestraint.o\
+$(OBJECTS_DIR)/newSixDoFRigidBodyMotionRestraint.o\
+$(OBJECTS_DIR)/linearAxialAngularSpring.o\
+$(OBJECTS_DIR)/linearSpring.o\
+$(OBJECTS_DIR)/sphericalAngularSpring.o\
+$(OBJECTS_DIR)/tabulatedAxialAngularSpring.o\
+$(OBJECTS_DIR)/sixDoFRigidBodyMotionConstraint.o\
+$(OBJECTS_DIR)/newSixDoFRigidBodyMotionConstraint.o\
+$(OBJECTS_DIR)/fixedAxis.o\
+$(OBJECTS_DIR)/fixedLine.o\
+$(OBJECTS_DIR)/fixedOrientation.o\
+$(OBJECTS_DIR)/fixedPlane.o\
+$(OBJECTS_DIR)/fixedPoint.o\
+$(OBJECTS_DIR)/sixDoFRigidBodyDisplacementPointPatchVectorField.o\
+$(OBJECTS_DIR)/uncoupledSixDoFRigidBodyDisplacementPointPatchVectorField.o

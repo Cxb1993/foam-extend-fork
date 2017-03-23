@@ -1,0 +1,1 @@
+../fvPatchFields/chtRcThermalDiffusivity/chtRcThermalDiffusivityFvPatchScalarField.C

@@ -1,0 +1,6 @@
+LOCAL_OBJECTS = \
+foamToFieldview9.o\
+fieldviewTopology.o\
+write_binary_uns.o\
+calcFaceAddressing.o\
+writeFunctions.o

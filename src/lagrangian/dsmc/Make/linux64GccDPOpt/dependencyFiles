@@ -1,0 +1,7 @@
+DEPENDENCIES = \
+parcels/derived/dsmcParcel/dsmcParcel.dep\
+clouds/baseClasses/DsmcBaseCloud/DsmcBaseCloud.dep\
+parcels/derived/dsmcParcel/defineDsmcParcel.dep\
+parcels/derived/dsmcParcel/makeDsmcParcelBinaryCollisionModels.dep\
+parcels/derived/dsmcParcel/makeDsmcParcelWallInteractionModels.dep\
+parcels/derived/dsmcParcel/makeDsmcParcelInflowBoundaryModels.dep

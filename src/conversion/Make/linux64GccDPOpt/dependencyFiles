@@ -1,0 +1,19 @@
+DEPENDENCIES = \
+ensight/file/ensightFile.dep\
+ensight/file/ensightGeoFile.dep\
+ensight/part/ensightPart.dep\
+ensight/part/ensightPartIO.dep\
+ensight/part/ensightPartCells.dep\
+ensight/part/ensightPartFaces.dep\
+ensight/part/ensightParts.dep\
+meshTables/boundaryRegion.dep\
+meshTables/cellTable.dep\
+meshReader/meshReader.dep\
+meshReader/meshReaderAux.dep\
+meshReader/calcPointCells.dep\
+meshReader/createPolyCells.dep\
+meshReader/createPolyBoundary.dep\
+meshReader/starcd/STARCDMeshReader.dep\
+meshWriter/meshWriter.dep\
+meshWriter/starcd/STARCDMeshWriter.dep\
+polyDualMesh/polyDualMesh.dep

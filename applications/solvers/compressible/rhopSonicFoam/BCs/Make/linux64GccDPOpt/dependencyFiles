@@ -1,0 +1,7 @@
+DEPENDENCIES = \
+rho/fixedRhoFvPatchScalarField.dep\
+rho/gradientRhoFvPatchScalarField.dep\
+rhoE/fixedRhoEFvPatchScalarField.dep\
+rhoE/mixedRhoEFvPatchScalarField.dep\
+rhoU/fixedRhoUFvPatchVectorField.dep\
+p/inviscidWallPFvPatchScalarField.dep

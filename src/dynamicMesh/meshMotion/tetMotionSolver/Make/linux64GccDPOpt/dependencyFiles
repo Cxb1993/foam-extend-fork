@@ -1,0 +1,14 @@
+DEPENDENCIES = \
+tetMotionSolver/tetMotionSolver.dep\
+tetMotionSolver/laplace/laplaceTetMotionSolver.dep\
+tetMotionSolver/pseudoSolid/pseudoSolidTetMotionSolver.dep\
+cellQuality/cellQuality.dep\
+motionDiffs/motionDiff/motionDiff.dep\
+motionDiffs/uniform/uniformDiff.dep\
+motionDiffs/deformationEnergy/deformationEnergyDiff.dep\
+motionDiffs/distortionEnergy/distortionEnergyDiff.dep\
+motionDiffs/linear/linearDiff.dep\
+motionDiffs/quadratic/quadraticDiff.dep\
+motionDiffs/exponential/exponentialDiff.dep\
+motionDiffs/patchEnhanced/patchEnhancedDiff.dep\
+motionDiffs/file/fileDiff.dep

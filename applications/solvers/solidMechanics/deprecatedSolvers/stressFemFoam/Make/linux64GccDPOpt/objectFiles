@@ -1,0 +1,3 @@
+OBJECTS = \
+$(OBJECTS_DIR)/tractionTetPolyPatchVectorField.o\
+$(OBJECTS_DIR)/stressFemFoam.o

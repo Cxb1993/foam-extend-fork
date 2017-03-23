@@ -1,0 +1,24 @@
+LOCAL_OBJECTS = \
+XiModel.o\
+newXiModel.o\
+fixed.o\
+algebraic.o\
+transport.o\
+XiEqModel.o\
+newXiEqModel.o\
+Gulder.o\
+instabilityXiEq.o\
+SCOPEBlendXiEq.o\
+SCOPEXiEq.o\
+XiGModel.o\
+newXiGModel.o\
+KTS.o\
+instabilityG.o\
+PDRkEpsilon.o\
+PDRDragModel.o\
+newPDRDragModel.o\
+basic.o\
+basicXiSubXiEq.o\
+basicXiSubG.o\
+SCOPELaminarFlameSpeed.o\
+PDRFoam.o

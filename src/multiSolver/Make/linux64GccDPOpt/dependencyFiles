@@ -1,0 +1,6 @@
+DEPENDENCIES = \
+dummyControlDict/dummyControlDict.dep\
+multiTime/multiTime.dep\
+multiSolver/multiSolver.dep\
+timeCluster/timeCluster.dep\
+timeCluster/timeClusterList.dep

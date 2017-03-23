@@ -1,0 +1,1 @@
+../tetPolyMesh/tetPolyPatches/constraint/symmetry/symmetryTetPolyPatch.H

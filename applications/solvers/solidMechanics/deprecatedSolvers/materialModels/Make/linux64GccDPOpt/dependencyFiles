@@ -1,0 +1,26 @@
+DEPENDENCIES = \
+rheologyModel/rheologyModel.dep\
+$(rheologyLaws)/rheologyLaw/rheologyLaw.dep\
+$(rheologyLaws)/rheologyLaw/newRheologyLaw.dep\
+$(rheologyLaws)/linearElastic/linearElastic.dep\
+$(rheologyLaws)/multiMaterial/multiMaterial.dep\
+$(rheologyLaws)/MaxwellViscoelastic/MaxwellViscoelastic.dep\
+$(rheologyLaws)/BurgersViscoelastic/BurgersViscoelastic.dep\
+$(rheologyLaws)/KelvinSLSViscoelastic/KelvinSLSViscoelastic.dep\
+$(rheologyLaws)/MaxwellSLSViscoelastic/MaxwellSLSViscoelastic.dep\
+$(rheologyLaws)/MaxwellElasticViscoelastic/MaxwellElasticViscoelastic.dep\
+$(rheologyLaws)/PronyViscoelastic/PronyViscoelastic.dep\
+thermalModel/thermalModel.dep\
+$(thermalLaws)/thermalLaw/thermalLaw.dep\
+$(thermalLaws)/thermalLaw/newThermalLaw.dep\
+$(thermalLaws)/constantThermal/constantThermal.dep\
+$(thermalLaws)/multiMaterialThermal/multiMaterialThermal.dep\
+cohesiveLaws/cohesiveLaw/cohesiveLaw.dep\
+cohesiveLaws/Dugdale/DugdaleCohesiveLaw.dep\
+cohesiveLaws/linear/linearCohesiveLaw.dep\
+fvPatchFields/tractionDisplacement/tractionDisplacementFvPatchVectorField.dep\
+fvPatchFields/tractionDisplacementThermo/tractionDisplacementThermoFvPatchVectorField.dep\
+fvPatchFields/nusselt/nusseltFvPatchScalarField.dep\
+fvPatchFields/newDirectionMixed/newDirectionMixedFvPatchFields.dep\
+fvPatchFields/cohesiveLaw/cohesiveLawFvPatchVectorField.dep\
+fvPatchFields/cohesiveZone/cohesiveZoneFvPatchVectorField.dep

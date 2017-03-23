@@ -1,0 +1,15 @@
+$(OBJECTS_DIR)/fa.o: finiteArea/fa/fa.dep
+finiteArea/fa/fa.dep: finiteArea/fa/fa.C
+finiteArea/fa/fa.dep: finiteArea/fa/fa.H
+finiteArea/fa/fa.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/className.H
+finiteArea/fa/fa.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/word.H
+finiteArea/fa/fa.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/string.H
+finiteArea/fa/fa.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/char.H
+finiteArea/fa/fa.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/Hasher.H
+finiteArea/fa/fa.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/stringI.H
+finiteArea/fa/fa.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/wordI.H
+finiteArea/fa/fa.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/debug.H
+$(OBJECTS_DIR)/fa.o: $(EXE_DEP)
+$(OBJECTS_DIR)/fa.o:
+	@SOURCE_DIR=finiteArea/fa
+	SOURCE=finiteArea/fa/fa.C ; $(Ctoo)

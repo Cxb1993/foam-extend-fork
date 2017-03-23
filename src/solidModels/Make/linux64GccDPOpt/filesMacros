@@ -1,0 +1,9 @@
+arbitraryCrack = arbitraryCrack
+boundaryConditions = fvPatchFields
+cohesiveLaws = $(constitutiveModel)/cohesiveLaws
+contactModels = contactModels
+constitutiveModel = constitutiveModel
+finiteVolume = finiteVolume
+rheologyLaws = $(constitutiveModel)/rheologyLaws
+thermalLaws = thermalModel/thermalLaws
+LIB = $(FOAM_LIBBIN)/libsolidModels

@@ -1,0 +1,2 @@
+LOCAL_OBJECTS = \
+star4ToFoam.o

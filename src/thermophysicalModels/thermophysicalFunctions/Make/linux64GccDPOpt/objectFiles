@@ -1,0 +1,12 @@
+OBJECTS = \
+$(OBJECTS_DIR)/thermophysicalFunction.o\
+$(OBJECTS_DIR)/NSRDSfunc0.o\
+$(OBJECTS_DIR)/NSRDSfunc1.o\
+$(OBJECTS_DIR)/NSRDSfunc2.o\
+$(OBJECTS_DIR)/NSRDSfunc3.o\
+$(OBJECTS_DIR)/NSRDSfunc4.o\
+$(OBJECTS_DIR)/NSRDSfunc5.o\
+$(OBJECTS_DIR)/NSRDSfunc6.o\
+$(OBJECTS_DIR)/NSRDSfunc7.o\
+$(OBJECTS_DIR)/NSRDSfunc14.o\
+$(OBJECTS_DIR)/APIdiffCoefFunc.o

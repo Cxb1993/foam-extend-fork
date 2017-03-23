@@ -1,0 +1,3 @@
+include bunnylod/progmesh.dep
+include bunnylod/vector.dep
+include surfaceCoarsen.dep

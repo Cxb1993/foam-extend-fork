@@ -1,0 +1,4 @@
+LOCAL_OBJECTS = \
+collapseBase.o\
+collapseEdge.o\
+surfaceClean.o

@@ -1,0 +1,5 @@
+LOCAL_OBJECTS = \
+combustionModel.o\
+newCombustionModel.o\
+infinitelyFastChemistry.o\
+noCombustion.o

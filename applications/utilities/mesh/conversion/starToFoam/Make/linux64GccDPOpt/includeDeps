@@ -1,0 +1,16 @@
+include coupledFacePair.dep
+include starMesh.dep
+include readPoints.dep
+include readCells.dep
+include readBoundary.dep
+include fixCollapsedEdges.dep
+include readCouples.dep
+include createCoupleMatches.dep
+include mergeCoupleFacePoints.dep
+include calcPointCells.dep
+include createPolyCells.dep
+include createBoundaryFaces.dep
+include createPolyBoundary.dep
+include purgeCellShapes.dep
+include writeMesh.dep
+include starToFoam.dep

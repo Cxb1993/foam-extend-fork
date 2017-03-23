@@ -1,0 +1,4 @@
+OBJECTS = \
+$(OBJECTS_DIR)/progmesh.o\
+$(OBJECTS_DIR)/vector.o\
+$(OBJECTS_DIR)/surfaceCoarsen.o

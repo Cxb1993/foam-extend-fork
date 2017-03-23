@@ -1,0 +1,4 @@
+include LESfilter/LESfilter.dep
+include simpleFilter/simpleFilter.dep
+include laplaceFilter/laplaceFilter.dep
+include anisotropicFilter/anisotropicFilter.dep

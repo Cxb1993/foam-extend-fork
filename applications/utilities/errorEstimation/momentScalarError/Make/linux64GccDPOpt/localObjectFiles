@@ -1,0 +1,2 @@
+LOCAL_OBJECTS = \
+momentScalarError.o

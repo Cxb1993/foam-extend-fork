@@ -1,0 +1,1 @@
+../fvPatchFields/chtRcTemperature/chtRcTemperatureFvPatchScalarField.H

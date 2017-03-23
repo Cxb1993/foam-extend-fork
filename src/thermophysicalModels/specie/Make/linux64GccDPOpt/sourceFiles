@@ -1,0 +1,8 @@
+SOURCE = \
+$(atomicWeights)/atomicWeights.C\
+$(specie)/specie.C\
+$(speciesTable)/speciesTable.C\
+$(equationOfState)/perfectGas/perfectGas.C\
+$(reactions)/makeChemkinReactions.C\
+$(reactions)/makeReactionThermoReactions.C\
+$(reactions)/makeLangmuirHinshelwoodReactions.C

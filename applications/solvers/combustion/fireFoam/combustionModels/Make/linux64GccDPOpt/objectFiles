@@ -1,0 +1,5 @@
+OBJECTS = \
+$(OBJECTS_DIR)/combustionModel.o\
+$(OBJECTS_DIR)/newCombustionModel.o\
+$(OBJECTS_DIR)/infinitelyFastChemistry.o\
+$(OBJECTS_DIR)/noCombustion.o

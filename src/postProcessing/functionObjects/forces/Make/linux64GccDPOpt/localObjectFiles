@@ -1,0 +1,24 @@
+LOCAL_OBJECTS = \
+forces.o\
+forcesFunctionObject.o\
+forceCoeffs.o\
+forceCoeffsFunctionObject.o\
+sixDoFRigidBodyMotion.o\
+sixDoFRigidBodyMotionIO.o\
+sixDoFRigidBodyMotionState.o\
+sixDoFRigidBodyMotionStateIO.o\
+sixDoFRigidBodyMotionRestraint.o\
+newSixDoFRigidBodyMotionRestraint.o\
+linearAxialAngularSpring.o\
+linearSpring.o\
+sphericalAngularSpring.o\
+tabulatedAxialAngularSpring.o\
+sixDoFRigidBodyMotionConstraint.o\
+newSixDoFRigidBodyMotionConstraint.o\
+fixedAxis.o\
+fixedLine.o\
+fixedOrientation.o\
+fixedPlane.o\
+fixedPoint.o\
+sixDoFRigidBodyDisplacementPointPatchVectorField.o\
+uncoupledSixDoFRigidBodyDisplacementPointPatchVectorField.o

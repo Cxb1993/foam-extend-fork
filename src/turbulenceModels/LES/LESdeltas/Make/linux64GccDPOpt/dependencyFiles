@@ -1,0 +1,6 @@
+DEPENDENCIES = \
+LESdelta/LESdelta.dep\
+cubeRootVolDelta/cubeRootVolDelta.dep\
+PrandtlDelta/PrandtlDelta.dep\
+maxEdgeLengthDelta/maxEdgeLengthDelta.dep\
+smoothDelta/smoothDelta.dep

@@ -1,0 +1,4 @@
+include contactPatchPair.dep
+include contactPatchPairUpdateContact.dep
+include contactPatchPairSlavePressure.dep
+include contactStressFoam.dep

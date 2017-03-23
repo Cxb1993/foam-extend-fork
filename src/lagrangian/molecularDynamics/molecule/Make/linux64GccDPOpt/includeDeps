@@ -1,0 +1,12 @@
+include $(referralLists)/sendingReferralList.dep
+include $(referralLists)/receivingReferralList.dep
+include $(referredCellList)/referredCellList.dep
+include $(referredCell)/referredCell.dep
+include $(referredMolecule)/referredMolecule.dep
+include $(directInteractionList)/directInteractionList.dep
+include $(interactionLists)/interactionLists.dep
+include $(reducedUnits)/reducedUnits.dep
+include $(reducedUnits)/reducedUnitsIO.dep
+include $(molecule)/molecule.dep
+include $(molecule)/moleculeIO.dep
+include $(moleculeCloud)/moleculeCloud.dep

@@ -1,0 +1,4 @@
+OBJECTS = \
+$(OBJECTS_DIR)/boundaryMesh.o\
+$(OBJECTS_DIR)/surfaceToPatch.o\
+$(OBJECTS_DIR)/treeDataPrimitivePatchName.o

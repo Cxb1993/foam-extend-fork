@@ -1,0 +1,3 @@
+OBJECTS = \
+$(OBJECTS_DIR)/testFadField.o\
+$(OBJECTS_DIR)/fadOneFields.o

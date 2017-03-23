@@ -1,0 +1,4 @@
+include combustionModel/combustionModel.dep
+include combustionModel/newCombustionModel.dep
+include infinitelyFastChemistry/infinitelyFastChemistry.dep
+include noCombustion/noCombustion.dep

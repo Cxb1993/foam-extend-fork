@@ -1,0 +1,9 @@
+LOCAL_OBJECTS = \
+Kmesh.o\
+fft.o\
+fftRenumber.o\
+calcEk.o\
+kShellIntegration.o\
+UOprocess.o\
+turbGen.o\
+noiseFFT.o

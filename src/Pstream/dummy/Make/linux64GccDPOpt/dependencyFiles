@@ -1,0 +1,4 @@
+DEPENDENCIES = \
+Pstream.dep\
+IPread.dep\
+OPwrite.dep

@@ -1,0 +1,27 @@
+DEPENDENCIES = \
+$(potential)/potential.dep\
+$(pairPotential)/pairPotentialList/pairPotentialList.dep\
+$(pairPotential)/basic/pairPotential.dep\
+$(pairPotential)/basic/pairPotentialIO.dep\
+$(pairPotential)/basic/newPairPotential.dep\
+$(pairPotential)/derived/lennardJones/lennardJones.dep\
+$(pairPotential)/derived/maitlandSmith/maitlandSmith.dep\
+$(pairPotential)/derived/azizChen/azizChen.dep\
+$(pairPotential)/derived/exponentialRepulsion/exponentialRepulsion.dep\
+$(pairPotential)/derived/coulomb/coulomb.dep\
+$(pairPotential)/derived/dampedCoulomb/dampedCoulomb.dep\
+$(pairPotential)/derived/noInteraction/noInteraction.dep\
+$(energyScalingFunction)/basic/energyScalingFunction.dep\
+$(energyScalingFunction)/basic/newEnergyScalingFunction.dep\
+$(energyScalingFunction)/derived/shifted/shifted.dep\
+$(energyScalingFunction)/derived/shiftedForce/shiftedForce.dep\
+$(energyScalingFunction)/derived/noScaling/noScaling.dep\
+$(energyScalingFunction)/derived/sigmoid/sigmoid.dep\
+$(energyScalingFunction)/derived/doubleSigmoid/doubleSigmoid.dep\
+$(tetherPotential)/tetherPotentialList/tetherPotentialList.dep\
+$(tetherPotential)/basic/tetherPotential.dep\
+$(tetherPotential)/basic/newTetherPotential.dep\
+$(tetherPotential)/derived/harmonicSpring/harmonicSpring.dep\
+$(tetherPotential)/derived/restrainedHarmonicSpring/restrainedHarmonicSpring.dep\
+$(tetherPotential)/derived/pitchForkRing/pitchForkRing.dep\
+$(electrostaticPotential)/electrostaticPotential.dep

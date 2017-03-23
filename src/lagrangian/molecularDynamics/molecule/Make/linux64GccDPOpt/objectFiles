@@ -1,0 +1,13 @@
+OBJECTS = \
+$(OBJECTS_DIR)/sendingReferralList.o\
+$(OBJECTS_DIR)/receivingReferralList.o\
+$(OBJECTS_DIR)/referredCellList.o\
+$(OBJECTS_DIR)/referredCell.o\
+$(OBJECTS_DIR)/referredMolecule.o\
+$(OBJECTS_DIR)/directInteractionList.o\
+$(OBJECTS_DIR)/interactionLists.o\
+$(OBJECTS_DIR)/reducedUnits.o\
+$(OBJECTS_DIR)/reducedUnitsIO.o\
+$(OBJECTS_DIR)/molecule.o\
+$(OBJECTS_DIR)/moleculeIO.o\
+$(OBJECTS_DIR)/moleculeCloud.o

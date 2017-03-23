@@ -1,0 +1,7 @@
+$(OBJECTS_DIR)/write_binary_uns.o: write_binary_uns.dep
+write_binary_uns.dep: write_binary_uns.c
+write_binary_uns.dep: fv_reader_tags.h
+$(OBJECTS_DIR)/write_binary_uns.o: $(EXE_DEP)
+$(OBJECTS_DIR)/write_binary_uns.o:
+	@SOURCE_DIR=.
+	SOURCE=write_binary_uns.c ; $(ctoo)

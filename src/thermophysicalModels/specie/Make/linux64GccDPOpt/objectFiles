@@ -1,0 +1,8 @@
+OBJECTS = \
+$(OBJECTS_DIR)/atomicWeights.o\
+$(OBJECTS_DIR)/specie.o\
+$(OBJECTS_DIR)/speciesTable.o\
+$(OBJECTS_DIR)/perfectGas.o\
+$(OBJECTS_DIR)/makeChemkinReactions.o\
+$(OBJECTS_DIR)/makeReactionThermoReactions.o\
+$(OBJECTS_DIR)/makeLangmuirHinshelwoodReactions.o

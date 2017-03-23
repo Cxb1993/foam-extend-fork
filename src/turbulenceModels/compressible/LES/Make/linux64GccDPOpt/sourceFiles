@@ -1,0 +1,14 @@
+SOURCE = \
+LESModel/LESModel.C\
+GenEddyVisc/GenEddyVisc.C\
+GenSGSStress/GenSGSStress.C\
+Smagorinsky/Smagorinsky.C\
+oneEqEddy/oneEqEddy.C\
+lowReOneEqEddy/lowReOneEqEddy.C\
+dynOneEqEddy/dynOneEqEddy.C\
+DeardorffDiffStress/DeardorffDiffStress.C\
+SpalartAllmaras/SpalartAllmaras.C\
+vanDriestDelta/vanDriestDelta.C\
+$(muSgsWallFunctions)/muSgsWallFunction/muSgsWallFunctionFvPatchScalarField.C\
+$(alphaSgsWallFunctions)/alphaSgsWallFunction/alphaSgsWallFunctionFvPatchScalarField.C\
+$(alphaSgsWallFunctions)/alphaSgsJayatillekeWallFunction/alphaSgsJayatillekeWallFunctionFvPatchScalarField.C

@@ -1,0 +1,4 @@
+DEPENDENCIES = \
+bunnylod/progmesh.dep\
+bunnylod/vector.dep\
+surfaceCoarsen.dep

@@ -1,0 +1,3 @@
+OBJECTS = \
+$(OBJECTS_DIR)/hexBlock.o\
+$(OBJECTS_DIR)/cfx4ToFoam.o

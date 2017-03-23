@@ -1,0 +1,5 @@
+SOURCE = \
+contactPatchPair.C\
+contactPatchPairUpdateContact.C\
+contactPatchPairSlavePressure.C\
+contactStressFoam.C

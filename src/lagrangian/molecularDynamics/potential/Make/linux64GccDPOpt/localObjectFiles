@@ -1,0 +1,27 @@
+LOCAL_OBJECTS = \
+potential.o\
+pairPotentialList.o\
+pairPotential.o\
+pairPotentialIO.o\
+newPairPotential.o\
+lennardJones.o\
+maitlandSmith.o\
+azizChen.o\
+exponentialRepulsion.o\
+coulomb.o\
+dampedCoulomb.o\
+noInteraction.o\
+energyScalingFunction.o\
+newEnergyScalingFunction.o\
+shifted.o\
+shiftedForce.o\
+noScaling.o\
+sigmoid.o\
+doubleSigmoid.o\
+tetherPotentialList.o\
+tetherPotential.o\
+newTetherPotential.o\
+harmonicSpring.o\
+restrainedHarmonicSpring.o\
+pitchForkRing.o\
+electrostaticPotential.o
